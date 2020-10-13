@@ -1,1 +1,1 @@
-This repository only contains information for onboarding new hires and offboarding staff leaving the office.
+This repository only contains information for onboarding new hires and offboarding staff leaving the office. Onboarding/offboarding is done via issue tickets assigned to staff.
