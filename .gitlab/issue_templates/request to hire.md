@@ -3,6 +3,14 @@ Department: [Populate]
 
 - [ ] I have attached the position description to this issue.
 
+
+- [ ] I'm a super awesome deputy.
+
+
+
+
+
+
 ## Certification of Non Political Consideration
 
 By submitting this issue ticket, I certify the following:
