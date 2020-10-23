@@ -1,4 +1,3 @@
-
 This issue ticket coordinates the **annual** performance review of the employee named in the issue title by their supervisor. This process should only be used by employees in the Data Science department. This process is documented in the [Data Science handbook](https://datascience.cookcountyassessor.com/wiki/handbook/handbook.md#performance-review).
 
 In order to complete this performance review, please follow the assigned steps.
@@ -41,3 +40,4 @@ supporting the score.
 
 /CC @VWaller @MSerio 
 /confidential 
+/label ~"management::performance management" 
