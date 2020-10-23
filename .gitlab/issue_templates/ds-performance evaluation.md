@@ -1,3 +1,4 @@
+
 This issue ticket coordinates the **annual** performance review of the employee named in the issue title by their supervisor. This process should only be used by employees in the Data Science department. This process is documented in the [Data Science handbook](https://datascience.cookcountyassessor.com/wiki/handbook/handbook.md#performance-review).
 
 In order to complete this performance review, please follow the assigned steps.
@@ -24,7 +25,9 @@ supporting the score.
 - [ ] Deputy adds comments to Form (if based on his/her personal knowledge) and approves Form by signing and dating it. Deputy sends approved Form back to Supervisor.
 - [ ] Supervisor sends final, approved Form (via "reply-all" to initial email) to HR, DOC, ACA, and issue at least 2 business days in advance of the Evaluation Meeting. 
 
+
 **Performance evaluation**
+
 - [ ]  Supervisor meets with the Employee in a private setting. Attendees limited to Deputy, HR, and - except for Performance Evaluation Meetings with employees in Exempt Positions - the DOC and ACA. During this meeting:
    * Provide Employee with a copy of the final, approved Form. Provide a thorough explanation of scores.
    * Review job performance (and Position Description if necessary).
@@ -32,6 +35,7 @@ supporting the score.
    * Give Employee opportunity to ask any questions.
    * Provide Employee opportunity to comment and return signed form within 2 business days.
 - [ ]  Employee-signed Form sent to HR, and - for Non-Exempt Positions - the DOC and ACA.
+
 
 - [ ]  Employee choose to share peer evaluation, self-evaluation, and supervisor evaluation with their supervisor _after_ receiving their performance evaluation. Employee has 2 business days to share these forms with HR.
 
