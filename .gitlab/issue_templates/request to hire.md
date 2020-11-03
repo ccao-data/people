@@ -1,8 +1,9 @@
-Department: [Populate]
-Date: [Populate]
-Position: [Populate]
-Requesting Deputy/Director:[Populate]
-Job title to be posted: [Populate]
+- Department: [Populate]
+- Date: [Populate]
+- Position: [Populate]
+- Requesting Deputy/Director:[Populate]
+- Job title to be posted: [Populate]
+
 
 - [ ] I have attached the position description to this issue.
 
