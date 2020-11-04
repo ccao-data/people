@@ -15,6 +15,9 @@ I certify that the following is applicable to all participants:
 | Requesting Deputy/Director                       |                                                  |
 | Job title to be posted                           |                                                  |
 | Job description                                  |                                                  |
+
+- [ ] Approves the information above.
+
 | From Administrative Operations & Budget                                                             ||
 | Business unit                                    |                                                  |
 | PCID #                                           |                                                  |
@@ -34,4 +37,4 @@ I certify that the following is applicable to all participants:
 
 
 /label ~management::hiring
-/assign @VWaller
+/assign @VWaller @amberranderson 
