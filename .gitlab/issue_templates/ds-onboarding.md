@@ -124,7 +124,7 @@ CCAODATA <- dbConnect(odbc(), .connection_string = Sys.getenv("DB_CONFIG_CCAODAT
 
 **For use in SSMS (only if SMSSBoost is installed):**
 
-- [ ] Go to **SSMSBoost > Settings > Preferred Connections > List**.  Here you can store server credentials provided by @sweatyhandshake for all databases you'll need to access. Select **Connect object explorer at startup** for each connection
+- [ ] Go to **SSMSBoost > Settings > Preferred Connections > List**.  Here you can store server credentials provided by @sweatyhandshake for all databases you'll need to access.  Click the small yellow plus sign at the bottom of the screen to add server addresses and credentials.  Select **Connect object explorer at startup** for each connection
 - [ ] Go to **Tools > Options > Environment > Startup** and select **Open empty environment**
 
 ## VPN Client
