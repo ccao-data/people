@@ -1,4 +1,4 @@
-This issue ticket coordinates the **annual** performance review of the employee named in the issue title by a **deputy**. This process should only be used by employees in the Data Science department. This process is documented in the [Data Science handbook](https://datascience.cookcountyassessor.com/wiki/handbook/handbook.md#performance-review). Performance evaluations are completed in two parts: the preparation of the draft evaluation, and the meeting and post-meeting actions. This issue ticket pertains to the latter part, and is blocked by the issue for the first. 
+This issue ticket coordinates the **90-day, 180-day, and annual** performance review of the employee named in the issue title by a **deputy**. This process should only be used by employees in the Data Science department. This process is documented in the [Data Science handbook](https://datascience.cookcountyassessor.com/wiki/handbook/handbook.md#performance-review). Performance evaluations are completed in two parts: the preparation of the draft evaluation, and the meeting and post-meeting actions. This issue ticket pertains to the former part, and blocks by the issue for the first. 
 
 
 ### Preparation for annual performance meeting
@@ -18,7 +18,8 @@ supporting the score.
    * All scores of 1 and 2 have recommendations to the Employee for improving his or her performance.
    * Overall Average Score is calculated correctly (if done electronically, the Form will do this for you).
 
-- [ ] The **deputy** sends final, approved Form (via "reply-all" to initial email) to HR, DOC, ACA, and issue at least 2 business days in advance of the Evaluation Meeting. 
+
+- [ ] The **deputy** sends form (via "reply-all" to initial email) to [HR](CCAOHR@cookcountyassessor.com), [DOC](MSerio@cookcountyassessor.com), [ACA](susan@feibuslaw.com), and issue at least **2 business** days in advance of the Evaluation Meeting. 
 
 /assign @VWaller @MSerio 
 /confidential 
