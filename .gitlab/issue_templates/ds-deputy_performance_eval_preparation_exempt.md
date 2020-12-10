@@ -18,6 +18,6 @@ supporting the score.
    * All scores of 1 and 2 have recommendations to the Employee for improving his or her performance.
    * Overall Average Score is calculated correctly (if done electronically, the Form will do this for you).
 
-/assign @VWaller @MSerio 
+/assign @VWaller
 /confidential 
 /label ~"management::performance management" 
