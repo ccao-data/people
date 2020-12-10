@@ -18,8 +18,6 @@ supporting the score.
    * All scores of 1 and 2 have recommendations to the Employee for improving his or her performance.
    * Overall Average Score is calculated correctly (if done electronically, the Form will do this for you).
 
-- [ ] The **deputy** sends final, approved Form (via "reply-all" to initial email) to HR, DOC, ACA, and issue at least 2 business days in advance of the Evaluation Meeting. 
-
 /assign @VWaller @MSerio 
 /confidential 
 /label ~"management::performance management" 

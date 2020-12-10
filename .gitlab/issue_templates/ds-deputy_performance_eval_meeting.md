@@ -2,7 +2,8 @@ This issue ticket coordinates the **90-day, 180-day, and annual** performance re
 
 ### The performance evaluation meeting
 
-The supervisor meets with the Employee in a private setting. Attendees are limited to Deputy, HR, and - except for Performance Evaluation Meetings with employees in Exempt Positions - the DOC and ACA. During this meeting:
+The supervisor meets with the Employee in a private setting. 
+
 - [ ] Provide Employee with a copy of the final, approved Form. Provide a thorough explanation of scores.
 - [ ] Review job performance (and Position Description if necessary).
 - [ ] Discuss Expectations for following review period.
