@@ -4,18 +4,21 @@ Welcome to the Cook County Assessor's Office Data Science Department! We're exci
 
 > :warning:  Mac users should first obtain a remote desktop VPN from IT and follow the remaining instructions for that terminal. This tech stack does not seem to work well with mac OS.
 
+If you are an intern returning for a second internship, some of the items below may be already completed.
+
 # Working remotely
 
 Make sure you have a quite space with good internet access from which to work. Please make sure you have a microphone to participate in remote meetings. A camera is also a good thing to have, though not required.
 
 ## VPN
 
-- [ ] Compelete and return VPN request paperwork to admins@cookcountyassessor.com. While waiting for a response, complete the Teams and bookmarks sections below.
+- [ ] Compelete and return VPN request paperwork to admins@cookcountyassessor.com. While waiting for a response, complete the Teams, bookmarks, and hours and project assignments sections below.
 - [ ] Install VPN on your computer.
 
 ## Teams
 
  Ask @sweatyhandshake for an invite to the Data Science "Team" within the CCAO group.
+
 # Bookmarks
 
 Take a moment to bookmark these commonly used CCAO links:
@@ -36,6 +39,13 @@ Take a moment to bookmark these commonly used CCAO links:
 - [ ] [Data Science Wiki](https://datascience.cookcountyassessor.com/wiki) - This wiki, you're already here!
 - [ ] [Data Science Application Server](https://datascience.cookcountyassessor.com/shiny) - Shiny server that launches CCAO Shiny applications. Login with Windows credentials
 - [ ] [App Monitoring Server](https://datascience.cookcountyassessor.com/grafana/) - Dashboards for monitoring app usage, pipeline processes, etc. Ask `@dfsnow` for login
+
+# Hours and project assignments
+
+Interns may work up to 20 hours per week. You are encouraged to do so; working 15 hours or less severly limits the quality of work you can do. - 
+
+- [ ] Please email your preferred schedule to [Rob Ross](mailto:rross@cookcountyassessor.com) so that he can put it on the DS calendar.
+- [ ] Email [Rob Ross](mailto:rross@cookcountyassessor.com) to request a project and supervisor.
 
 # Accounts
 
@@ -154,10 +164,6 @@ See the [Version Control and Workflow](handbook.md#version-control-and-workflow)
 # Intern Timesheets
 
 During the first week of employment, interns will need to manually record their hours on a paper timesheet which is turned in at the end of each week. The timesheet can be found [here :page_facing_up:](forms/Intern_Sign-in_Sheet.pdf). After that first week, interns will use the Cook County Time system to track their hours. Click [Dashboard login](https://www.cookcountyil.gov/cct) to log into CCT. **We recommend that you create a recurring calendar event to remind you to clock in and out.**
-
-## Choosing your hours
-
-Interns may work up to 20 hours per week. You are encouraged to do so; working 15 hours or less severly limits the quality of work you can do. Please email your preferred schedule to Rob rross@cookcountyassessor.com so that he can put it on the DS calendar.
 
 ## Fellow Timesheets
 
