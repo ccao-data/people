@@ -31,6 +31,8 @@ Take a moment to bookmark these commonly used CCAO links:
 - [ ] [The Cook County Assessor's PIN Search](https://www.cookcountyassessor.com/address-search) - Our office's application to find information about a PIN
 - [ ] [Cook County Property Info](http://www.cookcountypropertyinfo.com/) - The County's application to find information about a PIN
 - [ ] [Cook Viewer](https://maps.cookcountyil.gov/cookviewer/mapViewer.html) - A GIS application for finding PINs
+- [ ] Subscribe to [CCAO’s external newsletter](https://public.govdelivery.com/accounts/ILCOOK/signup/12686).
+- [ ] Subscribe to CCAO’s social media channels: [YouTube](https://www.youtube.com/channel/UC9w4Q3ZJyRS5J27eYKSjwZQ), [Facebook](https://www.facebook.com/CookCountyAssessorsOffice), [Instagram](https://www.instagram.com/cookcountyassessor/), [LinkedIn](https://www.linkedin.com/company/35589706), and [Twitter](https://twitter.com/AssessorCook).
 
 **Internal**
 
