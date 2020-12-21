@@ -46,7 +46,7 @@ Take a moment to bookmark these commonly used CCAO links:
 
 Interns may work up to 20 hours per week. You are encouraged to do so; working 15 hours or less severly limits the quality of work you can do. - 
 
-- [ ] Please email your preferred schedule to [Rob Ross](mailto:rross@cookcountyassessor.com) so that he can put it on the DS calendar.
+- [ ] Please email your preferred schedule to [Rob Ross](mailto:rross@cookcountyassessor.com), including the days and times you will be working, and the date of your last day. Subject: 'YOUR NAME - Internship hours.'
 - [ ] Email [Rob Ross](mailto:rross@cookcountyassessor.com) to request a project and supervisor.
 
 # Accounts
@@ -176,6 +176,10 @@ Data science fellows do not need to submit time sheets to the CCAO. They are sti
 [New Hire Orientation Slides](https://gitlab.com/ccao-data-science---modeling/ccao_ds_training/-/tree/master/Slides)
 See the section [Working Remotely at the CCAO](https://datascience.cookcountyassessor.com/wiki/handbook/handbook.md) in our data science handbook.
 The property assessment world involves a lot of real estate-specific jargon and vocabulary. A non-exhaustive list of commonly used vocabulary can be found in the [Sales Ratio Studies SOP](../sops/sales-ratio-studies.md#definitions).
+
+# Offboarding
+
+You will notice that you have been assigned an offboarding issue ticket. This should be completed at the end of your internship.
 
 ---
 
