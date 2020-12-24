@@ -4,18 +4,21 @@ Welcome to the Cook County Assessor's Office Data Science Department! We're exci
 
 > :warning:  Mac users should first obtain a remote desktop VPN from IT and follow the remaining instructions for that terminal. This tech stack does not seem to work well with mac OS.
 
+If you are an intern returning for a second internship, some of the items below may be already completed.
+
 # Working remotely
 
 Make sure you have a quite space with good internet access from which to work. Please make sure you have a microphone to participate in remote meetings. A camera is also a good thing to have, though not required.
 
 ## VPN
 
-- [ ] Compelete and return VPN request paperwork to admins@cookcountyassessor.com. While waiting for a response, complete the Teams and bookmarks sections below.
+- [ ] Compelete and return VPN request paperwork to admins@cookcountyassessor.com. While waiting for a response, complete the Teams, bookmarks, and hours and project assignments sections below.
 - [ ] Install VPN on your computer.
 
 ## Teams
 
  Ask @sweatyhandshake for an invite to the Data Science "Team" within the CCAO group.
+
 # Bookmarks
 
 Take a moment to bookmark these commonly used CCAO links:
@@ -28,6 +31,8 @@ Take a moment to bookmark these commonly used CCAO links:
 - [ ] [The Cook County Assessor's PIN Search](https://www.cookcountyassessor.com/address-search) - Our office's application to find information about a PIN
 - [ ] [Cook County Property Info](http://www.cookcountypropertyinfo.com/) - The County's application to find information about a PIN
 - [ ] [Cook Viewer](https://maps.cookcountyil.gov/cookviewer/mapViewer.html) - A GIS application for finding PINs
+- [ ] Subscribe to [CCAO’s external newsletter](https://public.govdelivery.com/accounts/ILCOOK/signup/12686).
+- [ ] Subscribe to CCAO’s social media channels: [YouTube](https://www.youtube.com/channel/UC9w4Q3ZJyRS5J27eYKSjwZQ), [Facebook](https://www.facebook.com/CookCountyAssessorsOffice), [Instagram](https://www.instagram.com/cookcountyassessor/), [LinkedIn](https://www.linkedin.com/company/35589706), and [Twitter](https://twitter.com/AssessorCook).
 
 **Internal**
 
@@ -36,6 +41,13 @@ Take a moment to bookmark these commonly used CCAO links:
 - [ ] [Data Science Wiki](https://datascience.cookcountyassessor.com/wiki) - This wiki, you're already here!
 - [ ] [Data Science Application Server](https://datascience.cookcountyassessor.com/shiny) - Shiny server that launches CCAO Shiny applications. Login with Windows credentials
 - [ ] [App Monitoring Server](https://datascience.cookcountyassessor.com/grafana/) - Dashboards for monitoring app usage, pipeline processes, etc. Ask `@dfsnow` for login
+
+# Hours and project assignments
+
+Interns may work up to 20 hours per week. You are encouraged to do so; working 15 hours or less severly limits the quality of work you can do. - 
+
+- [ ] Please email your preferred schedule to [Rob Ross](mailto:rross@cookcountyassessor.com), including the days and times you will be working, and the date of your last day. Subject: 'YOUR NAME - Internship hours.'
+- [ ] Email [Rob Ross](mailto:rross@cookcountyassessor.com) to request a project and supervisor.
 
 # Accounts
 
@@ -155,10 +167,6 @@ See the [Version Control and Workflow](handbook.md#version-control-and-workflow)
 
 During the first week of employment, interns will need to manually record their hours on a paper timesheet which is turned in at the end of each week. The timesheet can be found [here :page_facing_up:](forms/Intern_Sign-in_Sheet.pdf). After that first week, interns will use the Cook County Time system to track their hours. Click [Dashboard login](https://www.cookcountyil.gov/cct) to log into CCT. **We recommend that you create a recurring calendar event to remind you to clock in and out.**
 
-## Choosing your hours
-
-Interns may work up to 20 hours per week. You are encouraged to do so; working 15 hours or less severly limits the quality of work you can do. Please email your preferred schedule to Rob rross@cookcountyassessor.com so that he can put it on the DS calendar.
-
 ## Fellow Timesheets
 
 Data science fellows do not need to submit time sheets to the CCAO. They are still accountable for their time, but are paid by their academic institutions.
@@ -168,6 +176,10 @@ Data science fellows do not need to submit time sheets to the CCAO. They are sti
 [New Hire Orientation Slides](https://gitlab.com/ccao-data-science---modeling/ccao_ds_training/-/tree/master/Slides)
 See the section [Working Remotely at the CCAO](https://datascience.cookcountyassessor.com/wiki/handbook/handbook.md) in our data science handbook.
 The property assessment world involves a lot of real estate-specific jargon and vocabulary. A non-exhaustive list of commonly used vocabulary can be found in the [Sales Ratio Studies SOP](../sops/sales-ratio-studies.md#definitions).
+
+# Offboarding
+
+You will notice that you have been assigned an offboarding issue ticket. This should be completed at the end of your internship.
 
 ---
 
