@@ -41,7 +41,7 @@ Take a moment to bookmark these commonly used CCAO links:
 
 > :warning: The internal application locations above will have a security warning when you first visit them. This warning can safely be ignored. Click **Advanced --> Accept the risk** to bypass the warning.
 
-- [ ] [Data Science Wiki](https://datascience.cookcountyassessor.com/wiki) - This wiki, you're already here!
+- [ ] [Data Science Wiki](https://gitlab.com/groups/ccao-data-science---modeling/-/wikis/home) 
 - [ ] [Data Science Application Server](https://datascience.cookcountyassessor.com/shiny) - Shiny server that launches CCAO Shiny applications. Login with Windows credentials
 - [ ] [App Monitoring Server](https://datascience.cookcountyassessor.com/grafana/) - Dashboards for monitoring app usage, pipeline processes, etc. Ask `@dfsnow` for login
 
