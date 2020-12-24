@@ -1,18 +1,21 @@
-# Onboarding for Internal CCAO Employees
+# First day onboarding for new data science employees
 
-Welcome to the Cook County Assessor's Office Data Science Department! We're excited to have you! Your department onboarding will be your first issue ticket to complete. Below you will find instructions and tasks. Please complete them in order. If you run into any trouble, please do not hesitate to reach out to @sweatyhandshake (Billy) or @dfsnow (Dan) for help.
+Welcome aboard! This issue ticket will guide you through your first day. Below is a schedule of events:
 
-> :warning:  Mac users should first obtain a remote desktop VPN from IT and follow the remaining instructions for that terminal. This tech stack does not seem to work well with mac OS.
+| Time & Date | Event | CCAO Staff | Link |
+| ------ | ------ | ------ | ------ |
+| 1/4/2021 8:00 AM - 9:30 AM | HR Orientation: Welcome and completion of hiring documents | Sharyce Ousley, HR Generalist and Ashley Tillman, Sr. HR Generalist |[Microsoft Teams Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDUxN2E3OWQtN2E2Zi00YzZlLWFlNTEtM2FiNTUxM2M0YTc4%40thread.v2/0?context=%7b%22Tid%22%3a%22d8c4abe1-1869-4ec9-ad1d-19767c494954%22%2c%22Oid%22%3a%2210d28fc2-16b0-46a3-a264-b0fb36de4fda%22%7d) |
+| 1/4/2021 9:30 AM - 11:00 AM | Work this issue ticket | | |
+| 1/4/2021 11:00 AM - 11:45 AM | Data Science Orientation | Rob Ross, Chief Data Officer, and other data science team members| [Microsoft Teams Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDUxN2E3OWQtN2E2Zi00YzZlLWFlNTEtM2FiNTUxM2M0YTc4%40thread.v2/0?context=%7b%22Tid%22%3a%22d8c4abe1-1869-4ec9-ad1d-19767c494954%22%2c%22Oid%22%3a%2210d28fc2-16b0-46a3-a264-b0fb36de4fda%22%7d)|
 
-If you are an intern returning for a second internship, some of the items below may be already completed.
+If at any point you need help, please reach out to Billy @sweatyhandshake, Dan @dfsnow, or Sam.
 
-# Working remotely
+## Email
 
-Make sure you have a quite space with good internet access from which to work. Please make sure you have a microphone to participate in remote meetings. A camera is also a good thing to have, though not required.
+Log into your email.
 
 ## VPN
 
-- [ ] Compelete and return VPN request paperwork to admins@cookcountyassessor.com. While waiting for a response, complete the Teams, bookmarks, and hours and project assignments sections below.
 - [ ] Install VPN on your computer.
 
 ## Teams
@@ -53,7 +56,7 @@ Interns may work up to 20 hours per week. You are encouraged to do so; working 1
 
 Please create accounts with the following services using your CCAO email.
 
-- [ ] [GitLab](https://gitlab.com/) - Needed to contribute to the CCAO codebase (use your @cookcountyassessor.com email to make an account)
+- [ ] [GitLab](https://gitlab.com/) - Change your contact email to your @cookcountyassessor.com email.
 - [ ] [Bitbucket](https://bitbucket.org/) - Needed only for Sourcetree install
 
 # Tech Stack
