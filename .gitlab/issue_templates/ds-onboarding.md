@@ -12,6 +12,8 @@ If at any point you need help, please reach out to Billy @sweatyhandshake, Dan @
 
 ## Email
 
+When you work in the public sector in Illinois, and many other places, your work correspondence is considered official records. It is very important that you do not use your personal email account, person dropbox, google drive, or other file storage systems, or any other personal digital accounts or systems to do your work. **All CCAO work should be done using CCAO provided emails and file storage locations.** 
+
 - [ ] Log into your email.
 
 ## VPN
