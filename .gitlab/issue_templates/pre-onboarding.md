@@ -59,4 +59,4 @@ You should also receive and review copies of the following:
 
 There is an issue ticket that will guide you through your first day at the CCAO. It can be seen below this description as a 'blocked' issue.
 
-    
+/assign @ccao_rross @atillman
