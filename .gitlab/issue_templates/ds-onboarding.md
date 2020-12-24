@@ -12,7 +12,7 @@ If at any point you need help, please reach out to Billy @sweatyhandshake, Dan @
 
 ## Email
 
-Log into your email.
+- [ ] Log into your email.
 
 ## VPN
 
