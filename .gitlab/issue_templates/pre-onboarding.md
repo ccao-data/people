@@ -31,13 +31,16 @@ If you are a new (not returning) intern or employee, please complete the followi
 - [ ] [CCAO Employee Information](/forms/new-hire/1.%20Employee%20Personal%20Information%20Form.pdf)
 - [ ] [Dual Employment Form](/forms/new-hire/3.%20Outside%20Dual%20Employment%20Form.pdf)
 - [ ] [Cook County Self Identification Form](/forms/new-hire/4.%20Self%20Identification%20Form.pdf)
-- [ ] [Federal W4](https://www.irs.gov/pub/irs-pdf/fw4.pdf)
 - [ ] [Illinois W4](https://www2.illinois.gov/rev/forms/withholding/Documents/currentyear/il-w-4.pdf)
 - [ ] [Direct Deposit Form](/forms/new-hire/6.%20Credit%20Union%20Direct%20Deposit%20Form.pdf) - With a copy of a voided check
 - [ ] [Employee Handbook Acknowledgement Form](/forms/new-hire/8.%20New%20Hire%20-%20Handbook%20Acknowledge%20Form.pdf)
 - [ ] [ID Badge Request Form](/forms/new-hire/7.%20ID%20Requirements%20Form.pdf) - For employees only (interns can ignore this form and check the box)
 - [ ] [Software Code of Ethics](/forms/new-hire/9.%20Software%20Code%20of%20Ethics.pdf)
 - [ ] Email all completed forms to [HR](mailto:CCAOHR@cookcountyassessor.com).
+
+Additional documents will be filled out after onboarding using the employee self-service system:
+
+- Federal W4
 
 If you are a new (not returning) intern or employee, please complete the following tasks:
 
