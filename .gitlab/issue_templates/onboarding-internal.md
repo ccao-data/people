@@ -96,7 +96,10 @@ See the [Version Control and Workflow](https://gitlab.com/groups/ccao-data-scien
 
 Interns may work up to 20 hours per week and are encouraged to do so. Working 15 hours or less may limit the assignments you receive, as most of our departmental projects require a significant time investment.
 
+Intern schedules and certain events are tracked on a shared calendar (the Data Science calendar). Interns are expected to input and update their own schedule on this calendar. You will need to email the [Admins](mailto:admins@cookcountyassessor.com) to receive calendar write access.
+
 - [ ] Email your preferred schedule to [Samantha Simpson](mailto:ssimpson@cookcountyassessor.com). Include the days and times you will be working and the date of your last day. Subject: 'YOUR NAME - Internship Hours'
+- [ ] Email [Admins](mailto:admins@cookcountyassessor.com) to ask for write access to the Data Science calendar. Once access is granted, record the hours you plan to work on the calendar.
 
 During the first week of employment, interns will need to manually record their hours on a paper timesheet which is turned in at the end of the week. The timesheet can be found [here :page_facing_up:](/forms/internship/intern-time-sheet.pdf). After the first week, interns will use the Cook County Time system to track their hours. Visit [this page](https://www.cookcountyil.gov/cct) and click **Dashboard Login** to access CCT. **We recommend that you create a recurring calendar event to remind you to clock in and out.**
 
@@ -109,6 +112,7 @@ All new hires, interns, and fellows are required to read the following:
 - [ ] [Data Science Department Handbook](https://gitlab.com/groups/ccao-data-science---modeling/-/wikis/Handbook/Handbook) - Outlines the purpose, procedures, and practices of the department
 - [ ] [Data Science Department Mission, Vision, and Values](https://gitlab.com/groups/ccao-data-science---modeling/-/wikis/Handbook/Mission%20Vision%20Values) - Outlines the principles and goals of the department
 - [ ] [Data Science Resources Page](https://gitlab.com/groups/ccao-data-science---modeling/-/wikis/Handbook/Resources) - Read everything marked with a :exclamation:. You can skip *R for Data Science* and *Select Star SQL* if you're already proficient in R/SQL.
+- [ ] [Data Science Glossary](https://gitlab.com/groups/ccao-data-science---modeling/-/wikis/Handbook/Glossary) - The CCAO uses a lot of assessment-specific and office-specific jargon. Read through this glossary to get acquainted with some of the terms.
 
 Additionally, take a moment to bookmark all the links marked with a :exclamation: under the "Useful Bookmarks" section of the [Resources](https://gitlab.com/groups/ccao-data-science---modeling/-/wikis/Handbook/Resources#useful-bookmarks) page.
 
