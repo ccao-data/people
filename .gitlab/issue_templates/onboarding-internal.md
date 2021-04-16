@@ -14,6 +14,14 @@ Ask or [email](mailto:wridgeway@cookcountyassessor.com) @sweatyhandshake for an 
 
 - [ ] Send a Teams message to the General Data Science chat introducing yourself.
 
+## Federal W4
+
+You'll need to complete/update a Federal W4 as part of the onboarding process with HR. Unlike the pre-onboarding forms, this form must be filled out using Cook County's Employee Self Service (ESS) system. It usually takes about a week to receive access to this system once you are onboarded.
+
+Once you are given access to the ESS system, go to the [intranet](intranet/) and select “New EBS Employee Self Service” on the right side of the page. You will be directed to an Oracle webportal, where you’ll open the CCG Employee Self Service folder and select “Tax Form.” There, you can make any necessary updates to your Federal W4.
+
+- [ ] Complete/update your Federal W4 in the Employee Self Service system.
+
 ## Accounts
 
 Please create accounts with the following services using your CCAO email. If you already have a GitLab account or created one during pre-onboarding, please change your contact email to your @cookcountyassessor.com email address. All commits to CCAO repositories should be made with a CCAO email address.
