@@ -106,6 +106,8 @@ Interns may work up to 20 hours per week and are encouraged to do so. Working 15
 
 Intern schedules and certain events are tracked on a shared calendar (the Data Science calendar). Interns are expected to input and update their own schedule on this calendar. You will need to email the [Admins](mailto:admins@cookcountyassessor.com) to receive calendar write access.
 
+Once you receive write access, you can add the calendar to the [webmail calendar view](https://webmail.cookcountyassessor.com/owa/#path=/calendar/view/WorkWeek) by right-clicking **Your calendars** on the sidebar, clicking **Open calendar**, then entering the full email address of the Data Science calendar (datascience@cookcountyassessor.com).
+
 - [ ] Email your preferred schedule to [Samantha Simpson](mailto:ssimpson@cookcountyassessor.com). Include the days and times you will be working and the date of your last day. Subject: 'YOUR NAME - Internship Hours'
 - [ ] Email [Admins](mailto:admins@cookcountyassessor.com) to ask for write access to the Data Science calendar. Once access is granted, record the hours you plan to work on the calendar.
 
