@@ -10,7 +10,7 @@ HR/IT should contact you with login credentials for your CCAO email account.
 
 ## Teams
 
-Ask or [email](mailto:wridgeway@cookcountyassessor.com) @sweatyhandshake for an invite to the Data Department "Team" within the CCAO group.
+Ask or [email](mailto:william.ridgeway@cookcountyil.gov) @sweatyhandshake for an invite to the Data Department "Team" within the CCAO group.
 
 - [ ] Send a Teams message to the General Data Department chat introducing yourself.
 
@@ -24,9 +24,9 @@ Once you are given access to the ESS system, go to the [intranet](intranet/) and
 
 ## Accounts
 
-Please create accounts with the following services using your CCAO email. If you already have a GitLab account or created one during pre-onboarding, please change your contact email to your @cookcountyassessor.com email address. All commits to CCAO repositories should be made with a CCAO email address.
+Please create accounts with the following services using your CCAO email. If you already have a GitLab account or created one during pre-onboarding, please change your contact email to your @cookcountyil.gov email address. All commits to CCAO repositories should be made with a CCAO email address.
 
-- [ ] [GitLab](https://gitlab.com/) - Change your contact email to your @cookcountyassessor.com email.
+- [ ] [GitLab](https://gitlab.com/) - Change your contact email to your @cookcountyil.gov email.
 - [ ] [Bitbucket](https://bitbucket.org/) - Needed only for Sourcetree install. Feel free to skip this if you use CLI git.
 
 ## Install Software 
@@ -107,7 +107,7 @@ Interns may work up to 20 hours per week and are encouraged to do so. Working 15
 Intern schedules and certain events are tracked on a shared calendar (the Data Department calendar). Interns are expected to input and update their own schedule on this calendar.
 
 - [ ] Email Admins to ask for write access to the Data Department calendar. Once access is granted, record the hours you plan to work on the calendar.
-- [ ] Email your preferred schedule to [Samantha Simpson](mailto:ssimpson@cookcountyassessor.com). Include the days and times you will be working and the date of your last day. Subject: 'YOUR NAME - Internship Hours'
+- [ ] Email your preferred schedule to [Samantha Simpson](mailto:samantha.simpson@cookcountyil.gov). Include the days and times you will be working and the date of your last day. Subject: 'YOUR NAME - Internship Hours'
 
 During the first week of employment, interns may need to manually record their hours on a paper timesheet which is turned in at the end of the week. The timesheet can be found [here :page_facing_up:](/forms/internship/intern-time-sheet.pdf). After the first week, interns will use the Cook County Time system to track their hours. Visit [this page](https://www.cookcountyil.gov/cct) and click **Dashboard Login** to access CCT. **We recommend that you create a recurring calendar event to remind you to clock in and out.**
 
