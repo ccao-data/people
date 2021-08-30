@@ -1,4 +1,4 @@
-This issue ticket coordinates the **90-day, 180-day, and annual** performance review of the employee named in the issue title by a **deputy**. This process should only be used by employees in the Data Science Department. This process is documented in the [Data Science handbook](https://gitlab.com/groups/ccao-data-science---modeling/-/wikis/Handbook/Handbook#performance-review). Performance evaluations are completed in two parts:
+This issue ticket coordinates the **90-day, 180-day, and annual** performance review of the employee named in the issue title by a **deputy**. This process should only be used by employees in the Data Department. This process is documented in the [Data Department handbook](https://gitlab.com/groups/ccao-data-science---modeling/-/wikis/Handbook/Handbook#performance-review). Performance evaluations are completed in two parts:
 
 1. The preparation of the draft evaluation
 2. The meeting and post-meeting actions
@@ -23,6 +23,5 @@ supporting the score.
    * All scores of 1 and 2 have recommendations to **Employee** for improving his or her performance.
    * Overall Average Score is calculated correctly (if done electronically, the Form will do this for you).
 
-/assign @VWaller
 /confidential 
-/label ~"type::management::performance management" ~"stakeholder::internal::hr" ~"priority::high" ~"status::to do"
+/label ~"type::management::performance management" ~"stakeholder::internal::hr" ~"priority::high"
