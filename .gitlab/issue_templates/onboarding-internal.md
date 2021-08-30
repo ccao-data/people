@@ -10,13 +10,13 @@ HR/IT should contact you with login credentials for your CCAO email account.
 
 ## Teams
 
-Ask or [email](mailto:wridgeway@cookcountyassessor.com) @sweatyhandshake for an invite to the Data Science "Team" within the CCAO group.
+Ask or [email](mailto:wridgeway@cookcountyassessor.com) @sweatyhandshake for an invite to the Data Department "Team" within the CCAO group.
 
-- [ ] Send a Teams message to the General Data Science chat introducing yourself.
+- [ ] Send a Teams message to the General Data Department chat introducing yourself.
 
 ## Federal W4
 
-You'll need to complete/update a Federal W4 as part of the onboarding process with HR. Unlike the pre-onboarding forms, this form must be filled out using Cook County's Employee Self Service (ESS) system. It usually takes about a week to receive access to this system once you are onboarded.
+You'll need to complete/update a Federal W4 as part of the onboarding process with [HR](assessor.ccaohr@cookcountyil.gov). Unlike the pre-onboarding forms, this form must be filled out using Cook County's Employee Self Service (ESS) system. It usually takes about a week to receive access to this system once you are onboarded.
 
 Once you are given access to the ESS system, go to the [intranet](intranet/) and select “New EBS Employee Self Service” on the right side of the page. You will be directed to an Oracle webportal, where you’ll open the CCG Employee Self Service folder and select “Tax Form.” There, you can make any necessary updates to your Federal W4.
 
@@ -31,14 +31,14 @@ Please create accounts with the following services using your CCAO email. If you
 
 ## Install Software 
 
-The CCAO Data Science Department uses a variety of tools and software packages. We do not *require* that you use the tools listed below. However, if you choose to use something else, then you are responsible for debugging any issues with your toolchain.
+The CCAO Data Department uses a variety of tools and software packages. We do not *require* that you use the tools listed below. However, if you choose to use something else, then you are responsible for debugging any issues with your toolchain.
 
 - [ ] [Sourcetree](https://www.sourcetreeapp.com/) - Frontend UI for git version control and GitLab (optional, you can use CLI git/git bash if you prefer)
    - Link your Bitbucket account to Sourcetree during Sourcetree installation
    - When Sourcetree asks you to install mercurial and git, select **Yes** for both
-- [ ] [R](https://cloud.r-project.org/) - Main CCAO programming language (use version 4.0.0 or greater)
+- [ ] [R](https://cloud.r-project.org/) - Main CCAO programming language (use version 4.1.0 or greater)
 - [ ] [RStudio](https://rstudio.com/products/rstudio/download/#download) - Integrated development environment for R
-- [ ] [PuTTY](https://www.putty.org/) - SSH client and key generator
+- [ ] [PuTTY](https://www.putty.org/) - SSH client and key generator (needed for Windows only)
 - [ ] [Teams](https://products.office.com/en-us/microsoft-teams/download-app) - Main CCAO communications method
 
 ## Software Setup
@@ -71,13 +71,13 @@ The CCAO Data Science Department uses a variety of tools and software packages. 
 
 ### VPN Client
 
- You should receive an email from Admins or NCC with instructions on how to access the CCAO network through a VPN. For VPN troubleshooting, email the CCAO [Admins](mailto:admins@cookcountyassessor.com).
+ You should receive an email from Admins or NCC with instructions on how to access the CCAO network through a VPN. For VPN troubleshooting, email the CCAO Admins.
 
 - [ ] Install the Cook County VPN on your computer and successfully connect (test by visiting the [CCAO intranet](http://intranet/)).
 
 ## Issue Resolution
 
-The CCAO Data Science team uses [GitLab Flow](https://docs.gitlab.com/ee/topics/gitlab_flow.html) to manage its work. GitLab Flow uses a basic branch-per-issue system. Each issue or new feature is tied to a branch and merge request. Work is done on the branch, then merged to `master` after testing and review. Here's an example of a typical workflow:
+The CCAO Data Department uses [GitLab Flow](https://docs.gitlab.com/ee/topics/gitlab_flow.html) to manage its work. GitLab Flow uses a basic branch-per-issue system. Each issue or new feature is tied to a branch and merge request. Work is done on the branch, then merged to `master` after testing and review. Here's an example of a typical workflow:
 
 1. You are assigned **Issue #118, Update Internal Contribution Guidelines** within GitLab.
    * Check to see if there is a branch associated with your issue within GitLab. Branches created via issues usually have a similar name, in this case the branch name would be `118-update-internal-contribution-guidelines`.
@@ -104,25 +104,23 @@ See the [Version Control and Workflow](https://gitlab.com/groups/ccao-data-scien
 
 Interns may work up to 20 hours per week and are encouraged to do so. Working 15 hours or less may limit the assignments you receive, as most of our departmental projects require a significant time investment.
 
-Intern schedules and certain events are tracked on a shared calendar (the Data Science calendar). Interns are expected to input and update their own schedule on this calendar. You will need to email the [Admins](mailto:admins@cookcountyassessor.com) to receive calendar write access.
+Intern schedules and certain events are tracked on a shared calendar (the Data Department calendar). Interns are expected to input and update their own schedule on this calendar.
 
-Once you receive write access, you can add the calendar to the [webmail calendar view](https://webmail.cookcountyassessor.com/owa/#path=/calendar/view/WorkWeek) by right-clicking **Your calendars** on the sidebar, clicking **Open calendar**, then entering the full email address of the Data Science calendar (datascience@cookcountyassessor.com).
-
+- [ ] Email Admins to ask for write access to the Data Department calendar. Once access is granted, record the hours you plan to work on the calendar.
 - [ ] Email your preferred schedule to [Samantha Simpson](mailto:ssimpson@cookcountyassessor.com). Include the days and times you will be working and the date of your last day. Subject: 'YOUR NAME - Internship Hours'
-- [ ] Email [Admins](mailto:admins@cookcountyassessor.com) to ask for write access to the Data Science calendar. Once access is granted, record the hours you plan to work on the calendar.
 
-During the first week of employment, interns will need to manually record their hours on a paper timesheet which is turned in at the end of the week. The timesheet can be found [here :page_facing_up:](/forms/internship/intern-time-sheet.pdf). After the first week, interns will use the Cook County Time system to track their hours. Visit [this page](https://www.cookcountyil.gov/cct) and click **Dashboard Login** to access CCT. **We recommend that you create a recurring calendar event to remind you to clock in and out.**
+During the first week of employment, interns may need to manually record their hours on a paper timesheet which is turned in at the end of the week. The timesheet can be found [here :page_facing_up:](/forms/internship/intern-time-sheet.pdf). After the first week, interns will use the Cook County Time system to track their hours. Visit [this page](https://www.cookcountyil.gov/cct) and click **Dashboard Login** to access CCT. **We recommend that you create a recurring calendar event to remind you to clock in and out.**
 
-Data science fellows do not need to submit time sheets to the CCAO. They are still accountable for their time, but are paid by their academic institutions.
+Data Department fellows do not need to submit time sheets to the CCAO. They are still accountable for their time, but are paid by their academic institutions.
 
 ## Required Reading and Bookmarks
 
 All new hires, interns, and fellows are required to read the following:
 
-- [ ] [Data Science Department Handbook](https://gitlab.com/groups/ccao-data-science---modeling/-/wikis/Handbook/Handbook) - Outlines the purpose, procedures, and practices of the department
-- [ ] [Data Science Department Mission, Vision, and Values](https://gitlab.com/groups/ccao-data-science---modeling/-/wikis/Handbook/Mission%20Vision%20Values) - Outlines the principles and goals of the department
-- [ ] [Data Science Resources Page](https://gitlab.com/groups/ccao-data-science---modeling/-/wikis/Handbook/Resources) - Read everything marked with a :exclamation:. You can skip *R for Data Science* and *Select Star SQL* if you're already proficient in R/SQL.
-- [ ] [Data Science Glossary](https://gitlab.com/groups/ccao-data-science---modeling/-/wikis/Handbook/Glossary) - The CCAO uses a lot of assessment-specific and office-specific jargon. Read through this glossary to get acquainted with some of the terms.
+- [ ] [Data Department Handbook](https://gitlab.com/groups/ccao-data-science---modeling/-/wikis/Handbook/Handbook) - Outlines the purpose, procedures, and practices of the department
+- [ ] [Data Department Mission, Vision, and Values](https://gitlab.com/groups/ccao-data-science---modeling/-/wikis/Handbook/Mission%20Vision%20Values) - Outlines the principles and goals of the department
+- [ ] [Data Department Resources Page](https://gitlab.com/groups/ccao-data-science---modeling/-/wikis/Handbook/Resources) - Read everything marked with a :exclamation:. You can skip *R for Data Science* and *Select Star SQL* if you're already proficient in R/SQL.
+- [ ] [Data Department Glossary](https://gitlab.com/groups/ccao-data-science---modeling/-/wikis/Handbook/Glossary) - The CCAO uses a lot of assessment-specific and office-specific jargon. Read through this glossary to get acquainted with some of the terms.
 
 Additionally, take a moment to bookmark all the links marked with a :exclamation: under the "Useful Bookmarks" section of the [Resources](https://gitlab.com/groups/ccao-data-science---modeling/-/wikis/Handbook/Resources#useful-bookmarks) page.
 
@@ -135,4 +133,4 @@ You will notice that you have been assigned an offboarding issue ticket. This sh
 NOTE: Please report any broken links, spelling/grammar mistakes, or inaccurate instructions in this issue to @dfsnow.
 
 /assign @sweatyhandshake @dfsnow @ssimpson
-/label ~"type::management::onboarding" ~"stakeholder::internal::data" ~"priority::high" ~"status::to do"
+/label ~"type::management::onboarding" ~"stakeholder::internal::data" ~"priority::high"

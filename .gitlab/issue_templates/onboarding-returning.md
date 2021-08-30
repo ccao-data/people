@@ -11,4 +11,4 @@ We're happy you're back!
 
 :fire:
 
-/label ~"type::management::onboarding" ~"stakeholder::internal::data" ~"priority::high" ~"status::to do"
+/label ~"type::management::onboarding" ~"stakeholder::internal::data" ~"priority::high"
