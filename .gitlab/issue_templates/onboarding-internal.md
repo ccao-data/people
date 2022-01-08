@@ -71,7 +71,7 @@ The CCAO Data Department uses a variety of tools and software packages. We do no
 
 ### VPN Client
 
- You should receive an email from Admins or NCC with instructions on how to access the CCAO network through a VPN. For VPN troubleshooting, email the CCAO Admins.
+You should receive an email from Admins or NCC with instructions on how to access the CCAO network through a VPN. For VPN troubleshooting, email the CCAO Admins.
 
 - [ ] Install the Cook County VPN on your computer and successfully connect (test by visiting the [CCAO intranet](http://intranet/)).
 
