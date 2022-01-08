@@ -8,7 +8,7 @@ If you have a question at any point, please feel free to comment on this issue t
 
 The CCAO Data Department is currently working remotely. In order to work with our department, you will need:
 
-- A personal computer with sufficient RAM (>=8 GB), sufficient processing speed (>=3.0 GHz), and a microphone. Mac users may experience some issues with our tech stack
+- A personal computer with sufficient RAM (>=8 GB), sufficient processing speed (>=3.0 GHz), and a microphone. Mac users may experience some issues with our tech stack. If you do not have such a computer, you're welcome to use our instance of RStudio Server. Contact @dfsnow for details
 - Internet with at least 30 Mbps download speed
 - A quiet, comfortable workspace at home
 
@@ -53,15 +53,10 @@ You should also receive and review copies of the following:
  * Collective Bargaining Agreement
  * Phone Quick Reference Guide
 
-## Tasks for IT to Complete
-
-- [ ] Create an account using the data science profile and email credentials to the CDO, [HR](assessor.ccaohr@cookcountyil.gov), and Admins. The email address will be posted on this issue so that the new hire can complete the VPN form.
-
 ## Your First Day
 
-There is an issue ticket that will guide you through your first day at the CCAO. It can be seen below this description as a 'blocked' issue.
+There is a separate issue ticket that will guide you through your first day at the CCAO. This issue will be named "Onboarding ${your_name}".
 
 NOTE: Please report any broken links, spelling/grammar mistakes, or inaccurate instructions in this issue to @dfsnow.
 
 /assign @ssimpson
-/label ~"type::management::onboarding" ~"stakeholder::internal::data" ~"priority::high"

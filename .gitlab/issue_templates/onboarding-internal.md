@@ -81,7 +81,7 @@ The CCAO Data Department uses [GitLab Flow](https://docs.gitlab.com/ee/topics/gi
 
 1. You are assigned **Issue #118, Update Internal Contribution Guidelines** within GitLab.
    * Check to see if there is a branch associated with your issue within GitLab. Branches created via issues usually have a similar name, in this case the branch name would be `118-update-internal-contribution-guidelines`.
-   * If a branch doesn't exist, please ask your supervisor to create one. Please *do not* create a branch yourself.
+   * If a branch doesn't exist, feel free to create one yourself. Each issue has an associated "Create Merge Request" button which will create a branch and merge request for that issue"
 
 2. Checkout the issue branch.
    * Within Sourcetree, click **Repository --> Checkout**, then select the branch associated with the issue you have been assigned. In this case, `118-update-internal-contribution-guidelines`. You can also double-click different branch names to check them out.
@@ -102,14 +102,11 @@ See the [Version Control and Workflow](https://gitlab.com/groups/ccao-data-scien
 
 ## Intern Hours, Projects, and Time Tracking
 
-Interns may work up to 20 hours per week and are encouraged to do so. Working 15 hours or less may limit the assignments you receive, as most of our departmental projects require a significant time investment.
+Interns may work up to 20 hours per week and are encouraged to do so. Working 15 hours or less may limit the assignments you receive, as most of our departmental projects require a significant time investment. Intern schedules and certain events are tracked on a shared calendar (the Data Department calendar). 
 
-Intern schedules and certain events are tracked on a shared calendar (the Data Department calendar). Interns are expected to input and update their own schedule on this calendar.
-
-- [ ] Email Admins to ask for write access to the Data Department calendar. Once access is granted, record the hours you plan to work on the calendar.
 - [ ] Email your preferred schedule to [Samantha Simpson](mailto:samantha.simpson@cookcountyil.gov). Include the days and times you will be working and the date of your last day. Subject: 'YOUR NAME - Internship Hours'
 
-During the first week of employment, interns may need to manually record their hours on a paper timesheet which is turned in at the end of the week. The timesheet can be found [here :page_facing_up:](/forms/internship/intern-time-sheet.pdf). After the first week, interns will use the Cook County Time system to track their hours. Visit [this page](https://www.cookcountyil.gov/cct) and click **Dashboard Login** to access CCT. **We recommend that you create a recurring calendar event to remind you to clock in and out.**
+During the first week of employment, interns _may_ need to manually record their hours on a paper timesheet which is turned in at the end of the week. The timesheet can be found [here :page_facing_up:](/forms/internship/intern-time-sheet.pdf). After the first week, interns will use the Cook County Time system to track their hours. Visit [this page](https://www.cookcountyil.gov/cct) and click **Dashboard Login** to access CCT. **We recommend that you create a recurring calendar event to remind you to clock in and out.**
 
 Data Department fellows do not need to submit time sheets to the CCAO. They are still accountable for their time, but are paid by their academic institutions.
 
@@ -126,11 +123,6 @@ Additionally, take a moment to bookmark all the links marked with a :exclamation
 
 If you have downtime while working, we highly recommend reading anything marked with a :star: on the [Resources](https://gitlab.com/groups/ccao-data-science---modeling/-/wikis/Handbook/Resources) page.
 
-## Offboarding
-
-You will notice that you have been assigned an offboarding issue ticket. This should be completed at the end of your tenure at the CCAO.
-
 NOTE: Please report any broken links, spelling/grammar mistakes, or inaccurate instructions in this issue to @dfsnow.
 
-/assign @sweatyhandshake @dfsnow @ssimpson
-/label ~"type::management::onboarding" ~"stakeholder::internal::data" ~"priority::high"
+/assign @dfsnow @ssimpson

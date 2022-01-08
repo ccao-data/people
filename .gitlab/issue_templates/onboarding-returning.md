@@ -10,5 +10,3 @@ Welcome back! This issue ticket serves as a checklist for your return to the CCA
 We're happy you're back!
 
 :fire:
-
-/label ~"type::management::onboarding" ~"stakeholder::internal::data" ~"priority::high"

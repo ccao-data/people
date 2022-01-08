@@ -23,4 +23,3 @@ Before we can collaborate on a project, we need a collaborator agreement. Please
 The Data Department uses Microsoft Teams as its primary method of communication. External collaborators can be added to the CCAO Teams group as guests. For an invite, please email the current CDO.
 
 /assign @sweatyhandshake @dfsnow @ssimpson
-/label ~"type::management::onboarding" ~"stakeholder::internal::data" ~"priority::high"
