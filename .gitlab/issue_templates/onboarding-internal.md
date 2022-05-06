@@ -22,70 +22,58 @@ Once you are given access to the ESS system, go to the [intranet](intranet/) and
 
 - [ ] Complete/update your Federal W4 in the Employee Self Service system.
 
+Once your W4 is filled out, you can (optionally) enroll in direct deposit using the same system. If you don't enroll in direct deposit, then your paychecks will be mailed to the address you provided on your I-9.
+
 ## Accounts
 
-Please create accounts with the following services using your CCAO email. If you already have a GitLab account or created one during pre-onboarding, please change your contact email to your @cookcountyil.gov email address. All commits to CCAO repositories should be made with a CCAO email address.
+Please create accounts with the following service(s) using your CCAO email. If you already have a GitLab account or created one during pre-onboarding, please change your contact email to your @cookcountyil.gov email address. All commits to CCAO repositories should be made with a CCAO email address.
 
 - [ ] [GitLab](https://gitlab.com/) - Change your contact email to your @cookcountyil.gov email.
-- [ ] [Bitbucket](https://bitbucket.org/) - Needed only for Sourcetree install. Feel free to skip this if you use CLI git.
 
-## Install Software 
+## VPN Client
 
-The CCAO Data Department uses a variety of tools and software packages. We do not *require* that you use the tools listed below. However, if you choose to use something else, then you are responsible for debugging any issues with your toolchain.
-
-- [ ] [Sourcetree](https://www.sourcetreeapp.com/) - Frontend UI for git version control and GitLab (optional, you can use CLI git/git bash if you prefer)
-   - Link your Bitbucket account to Sourcetree during Sourcetree installation
-   - When Sourcetree asks you to install mercurial and git, select **Yes** for both
-- [ ] [R](https://cloud.r-project.org/) - Main CCAO programming language (use version 4.1.0 or greater)
-- [ ] [RStudio](https://rstudio.com/products/rstudio/download/#download) - Integrated development environment for R
-- [ ] [PuTTY](https://www.putty.org/) - SSH client and key generator (needed for Windows only)
-- [ ] [Teams](https://products.office.com/en-us/microsoft-teams/download-app) - Main CCAO communications method
-
-## Software Setup
-
-### Git, GitLab, and Sourcetree
-
-- [ ] Check your email for an invitation to join GitLab. If you don't already have a pending invite to the [CCAO GitLab](https://gitlab.com/ccao-data-science---modeling) group, request one from `@sweatyhandshake`.
-- [ ] Create a .ssh folder in your home directory.
-   * One way to do this is to open the Start Menu and type `cmd` in the search box. Click on `cmd.exe` when it comes up in the search results. This will open up a Windows command prompt. Enter `mkdir .ssh` in the command prompt. This will create a folder called `.ssh` in your home directory.
-- [ ] Generate SSH keys with Sourcetree (if you'd like to generate an SSH key pair without Sourcetree, see instructions [here](https://docs.gitlab.com/ee/ssh/#generating-a-new-ssh-key-pair)).
-   * Open Sourcetree and go to **Tools**
-   * Select **Create or import SSH keys**
-   * Select **Generate**
-   * Save the public and private keys to your `.ssh` folder (add a password to your private key if you desire)
-   * Copy your newly generated SSH keys from the Sourcetree window. **Pasting this version of your ssh key into PuTTY and GitLab will help avoid errors.**
-- [ ] Right click the PuTTY icon in the system tray (bottom right portion of task bar).
-   * Click **Add key**
-   * Locate the private key in your `.ssh` folder (no .pub ending) and add it to PuTTY
-- [ ] Add your SSH keys to GitLab.
-   * In GitLab, go to **Settings** under your profile icon in the top-right corner
-   * On the left-hand side of the settings window, click **SSH Keys**, then paste your public key into the box (the title and expiration date are arbitrary and can be whatever you'd like)
-- [ ] Clone your desired CCAO project.
-   * In Sourcetree, select **Clone**
-   * Within GitLab, find the repository you'd like to clone
-   * From the main page of the project, select the blue **Clone** button on the top right-hand side of the page. Click the **Clone with SSH** button to copy the SSH URI to your clipboard
-   * Paste this into the top line of the **Clone** page in Sourcetree, and click out of the box
-   * If Sourcetree encounters an error, restart it and repaste the text into the **Clone** field
-   * Under **Advanced Options**, select the `master` branch
-   * Press the **Clone** button at the bottom of the page
-
-### VPN Client
-
-You should receive an email from Admins or NCC with instructions on how to access the CCAO network through a VPN. For VPN troubleshooting, email the CCAO Admins.
+You should receive an email from Admins or NCC with instructions on how to access the CCAO network through a VPN. You will receive a second, separate email to enroll in Duo, which provides multi-factor authentication. For VPN troubleshooting, email the [CCAO Admins](Assessor.admins@cookcountyil.gov).
 
 - [ ] Install the Cook County VPN on your computer and successfully connect (test by visiting the [CCAO intranet](http://intranet/)).
 
+## Install Software 
+
+The CCAO Data Department uses a few tools for communication and accessing internal resources:
+
+- [ ] [PuTTY](https://www.putty.org/) - (Optional) SSH client and key generator (needed for Windows only, Mac and Linux machines have built-in SSH)
+- [ ] [Teams](https://products.office.com/en-us/microsoft-teams/download-app) - Main CCAO communications method
+- [ ] A web browswer of your choice
+
+## Server Setup
+
+For actual coding and computation, the Data Department uses an on-premise server. The server can be accessed via SSH, RStudio, or JupyterLab as long as you are connected to the county VPN. To gain access to the server, you will need an account.
+
+- [ ] Send a Teams message to @dfsnow requesting an RStudio/server account.
+
+Once your account is created, you can connect to the server via [RStudio](https://datascience.cookcountyassessor.com/rstudio/) or [JupyterLab](https://datascience.cookcountyassessor.com/jupyter).
+
+- [ ] Successfully login to either [RStudio](https://datascience.cookcountyassessor.com/rstudio) or [JupyterLab](https://datascience.cookcountyassessor.com/jupyter).
+
+### Projects and Git
+
+You can use either RStudio's git integration or the command line (via SSH) to manage CCAO projects. If you are unfamiliar with git or RStudio's git integration, watch [this webinar](https://www.rstudio.com/resources/webinars/managing-part-2-github-and-rstudio/).
+
+Additionally, the CCAO uses RStudio's projects feature to manage environments and switch between contexts.
+
+- [ ] Read RStudio's [introduction to projects](https://support.rstudio.com/hc/en-us/articles/200526207-Using-RStudio-Projects).
+- [ ] Clone a [CCAO repository](https://gitlab.com/ccao-data-science---modeling/models/ccao_res_avm) using RStudio's projects feature.
+
 ## Issue Resolution
 
-The CCAO Data Department uses [GitLab Flow](https://docs.gitlab.com/ee/topics/gitlab_flow.html) to manage its work. GitLab Flow uses a basic branch-per-issue system. Each issue or new feature is tied to a branch and merge request. Work is done on the branch, then merged to `master` after testing and review. Here's an example of a typical workflow:
+The CCAO Data Department roughly uses [GitLab Flow](https://docs.gitlab.com/ee/topics/gitlab_flow.html) to manage its work. GitLab Flow uses a basic branch-per-issue system. Each issue or new feature is tied to a branch and merge request. Work is done on the branch, then merged to `master` after testing and review. Here's an example of a typical workflow:
 
 1. You are assigned **Issue #118, Update Internal Contribution Guidelines** within GitLab.
    * Check to see if there is a branch associated with your issue within GitLab. Branches created via issues usually have a similar name, in this case the branch name would be `118-update-internal-contribution-guidelines`.
    * If a branch doesn't exist, feel free to create one yourself. Each issue has an associated "Create Merge Request" button which will create a branch and merge request for that issue"
 
 2. Checkout the issue branch.
-   * Within Sourcetree, click **Repository --> Checkout**, then select the branch associated with the issue you have been assigned. In this case, `118-update-internal-contribution-guidelines`. You can also double-click different branch names to check them out.
-   * The branch you selected should now appear in bold under **BRANCHES** on the left side of Sourcetree. You are now working within that branch.
+   * Within RStudio, navigate to the git pane, then click the branch name in the upper right-hand corner (usually **master**). Select the branch associated with the issue you have been assigned. In this case, `118-update-internal-contribution-guidelines`. You can also click different branch names to check them out.
+   * The branch you selected should now appear in the upper right-hand corner of the git pane. You are now working within that branch.
 
 2. Work the issue. Use the issue page comments to communicate with your supervisor about the issue.
 
