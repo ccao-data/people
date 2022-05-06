@@ -13,3 +13,4 @@ If you're reading this, then it's finally time to say goodbye. :sob: We're sad t
   - A reminder to change the permissions on your GitLab account
   - A reminder to revoke any private API/deploy keys
   - Your contact information, in case we need to follow-up on something you worked on
+  - A reminder to add you to the [list of former interns and employees used to generate model names](https://gitlab.com/ccao-data-science---modeling/packages/ccao/-/blob/master/data-raw/ccao_ids.R)
