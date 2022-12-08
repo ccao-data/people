@@ -1,4 +1,4 @@
-Welcome aboard! This issue ticket will guide you through your first day. If at any point you need help, please reach out to Billy @sweatyhandshake, Dan @dfsnow, or Sam @ssimpson.
+Welcome aboard! This issue ticket will guide you through your first day. If at any point you need help, please reach out to Billy @sweatyhandshake, Dan @dfsnow, or Nicole @ccaojardine.
 
 ## Email
 
@@ -10,13 +10,13 @@ HR/IT should contact you with login credentials for your CCAO email account.
 
 ## Teams
 
-Ask or [email](mailto:william.ridgeway@cookcountyil.gov) @sweatyhandshake for an invite to the Data Department "Team" within the CCAO group.
+Ask or [email](mailto:william.ridgeway@cookcountyil.gov) @sweatyhandshake for an invite to the Data Department "Team" within the CCAO group and the General chat within that Team.
 
 - [ ] Send a Teams message to the General Data Department chat introducing yourself.
 
 ## Federal W4
 
-You'll need to complete/update a Federal W4 as part of the onboarding process with [HR](assessor.ccaohr@cookcountyil.gov). Unlike the pre-onboarding forms, this form must be filled out using Cook County's Employee Self Service (ESS) system. It usually takes about a week to receive access to this system once you are onboarded.
+You'll need to complete/update a Federal W4 as part of the onboarding process with [HR](assessor.ccaohr@cookcountyil.gov). Unlike the pre-onboarding forms, this form must be filled out using Cook County's Employee Self Service (ESS) system. It usually takes about a week to receive access to this system once you are onboarded. If you've already completed this step, simply check the box and continue on.
 
 Once you are given access to the ESS system, go to the [intranet](intranet/) and select “New EBS Employee Self Service” on the right side of the page. You will be directed to an Oracle webportal, where you’ll open the CCG Employee Self Service folder and select “Tax Form.” There, you can make any necessary updates to your Federal W4.
 
@@ -26,29 +26,33 @@ Once your W4 is filled out, you can (optionally) enroll in direct deposit using 
 
 ## Accounts
 
-Please create accounts with the following service(s) using your CCAO email. If you already have a GitLab account or created one during pre-onboarding, please change your contact email to your @cookcountyil.gov email address. All commits to CCAO repositories should be made with a CCAO email address.
+Please create accounts with the following service(s) using your CCAO email. If you already have a GitLab account or created one during pre-onboarding, please change your contact and commit email to your @cookcountyil.gov email address. All commits to CCAO repositories should be made with a CCAO email address.
 
-- [ ] [GitLab](https://gitlab.com/) - Change your contact email to your @cookcountyil.gov email.
+- [ ] [GitLab](https://gitlab.com/) - Change your contact and commit email to your @cookcountyil.gov email.
 
 ## VPN Client
 
-You should receive an email from Admins or NCC with instructions on how to access the CCAO network through a VPN. You will receive a second, separate email to enroll in Duo, which provides multi-factor authentication. For VPN troubleshooting, email the [CCAO Admins](Assessor.admins@cookcountyil.gov).
+You should receive an email from Admins or NCC with instructions on how to access the CCAO network through a VPN. You will receive a second, separate email to enroll in Duo, which provides multi-factor authentication. For VPN troubleshooting, email the [CCAO Admins](Assessor.admins@cookcountyil.gov). For more information on the VPN, see the [Data Department wiki](https://gitlab.com/groups/ccao-data-science---modeling/-/wikis/People/VPN).
 
-- [ ] Install the Cook County VPN on your computer and successfully connect (test by visiting the [CCAO intranet](http://intranet/)).
+- [ ] Install the Cook County VPN client on your computer and successfully connect (test by visiting the [CCAO intranet](http://intranet/)).
 
-## Install Software 
+## Hardware and Software 
 
-The CCAO Data Department uses a few tools for communication and accessing internal resources:
+You will be issued a CCAO laptop as part of your onboarding. This laptop has all the software you need pre-installed. When working remotely, you can take your CCAO laptop home OR use a personal machine. You will need to use the [VPN](#vpn-client) to connect to CCAO resources while not in the office.
+
+If using a personal machine, we recommend installing the following tools for communication and accessing internal resources:
 
 - [ ] [PuTTY](https://www.putty.org/) - (Optional) SSH client and key generator (needed for Windows only, Mac and Linux machines have built-in SSH)
 - [ ] [Teams](https://products.office.com/en-us/microsoft-teams/download-app) - Main CCAO communications method
-- [ ] A web browswer of your choice
+- [ ] A web browser of your choice
+
+If you're not using a personal machine, or already have the necessary tools installed, please check the boxes above.
 
 ## Server Setup
 
 For actual coding and computation, the Data Department uses an on-premise server. The server can be accessed via SSH, RStudio, or JupyterLab as long as you are connected to the county VPN. To gain access to the server, you will need an account.
 
-- [ ] Send a Teams message to @dfsnow requesting an RStudio/server account.
+- [ ] Send a Teams message to Dan (@dfsnow) requesting an RStudio/server account.
 
 Once your account is created, you can connect to the server via [RStudio](https://datascience.cookcountyassessor.com/rstudio/) or [JupyterLab](https://datascience.cookcountyassessor.com/jupyter).
 
@@ -56,9 +60,9 @@ Once your account is created, you can connect to the server via [RStudio](https:
 
 ### Projects and Git
 
-You can use either RStudio's git integration or the command line (via SSH) to manage CCAO projects. If you are unfamiliar with git or RStudio's git integration, watch [this webinar](https://www.rstudio.com/resources/webinars/managing-part-2-github-and-rstudio/).
+You can use either RStudio's git integration or the command line (via SSH) to manage CCAO git repositories. If you are unfamiliar with git or RStudio's git integration, watch [this webinar](https://www.rstudio.com/resources/webinars/managing-part-2-github-and-rstudio/).
 
-Additionally, the CCAO uses RStudio's projects feature to manage environments and switch between contexts.
+Additionally, the Data Department uses RStudio's projects feature to manage environments and switch between contexts.
 
 - [ ] Read RStudio's [introduction to projects](https://support.rstudio.com/hc/en-us/articles/200526207-Using-RStudio-Projects).
 - [ ] Clone a [CCAO repository](https://gitlab.com/ccao-data-science---modeling/models/ccao_res_avm) using RStudio's projects feature.
@@ -92,7 +96,7 @@ See the [Version Control and Workflow](https://gitlab.com/groups/ccao-data-scien
 
 Interns may work up to 20 hours per week and are encouraged to do so. Working 15 hours or less may limit the assignments you receive, as most of our departmental projects require a significant time investment. Intern schedules and certain events are tracked on a shared calendar (the Data Department calendar). 
 
-- [ ] Email your preferred schedule to [Samantha Simpson](mailto:samantha.simpson@cookcountyil.gov). Include the days and times you will be working and the date of your last day. Subject: 'YOUR NAME - Internship Hours'
+- [ ] Email your preferred schedule to [Nicole Jardine](mailto:nicole.jardine@cookcountyil.gov) and [Dan Snow](mailto:daniel.snow@cookcountyil.gov). Include the days and times you will be working and the date of your last day. Subject: 'YOUR NAME - Internship Hours'
 
 During the first week of employment, interns _may_ need to manually record their hours on a paper timesheet which is turned in at the end of the week. The timesheet can be found [here :page_facing_up:](/forms/internship/intern-time-sheet.pdf). After the first week, interns will use the Cook County Time system to track their hours. Visit [this page](https://www.cookcountyil.gov/cct) and click **Dashboard Login** to access CCT. **We recommend that you create a recurring calendar event to remind you to clock in and out.**
 
@@ -113,4 +117,4 @@ If you have downtime while working, we highly recommend reading anything marked 
 
 NOTE: Please report any broken links, spelling/grammar mistakes, or inaccurate instructions in this issue to @dfsnow.
 
-/assign @dfsnow @ssimpson
+/assign @dfsnow @ccaojardine
