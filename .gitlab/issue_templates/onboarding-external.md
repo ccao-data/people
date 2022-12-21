@@ -1,15 +1,5 @@
 Thank you for partnering with the Cook County Assessor's Data Department. Please read the content below to get started. 
 
-## Bookmarks
-
-Take a moment to bookmark these commonly used CCAO links:
-
-* [CCAO GitLab](https://gitlab.com/ccao-data-science---modeling) - Main source for all Data Department code
-* [IAAO Technical Standards](https://iaao.org/wcm/Resources/Technical_Standards/wcm/Resources_Content/Pubs/Technical_Standards.aspx) - Technical standards and measurements for the assessment field
-* [The Cook County Assessor's PIN Search](https://www.cookcountyassessor.com/address-search) - Our office's application to find information about a PIN
-* [Cook County Property Info](http://www.cookcountypropertyinfo.com/) - The County's application to find information about a PIN
-* [Cook Viewer](https://maps.cookcountyil.gov/cookviewer/mapViewer.html) - A GIS application for finding PINs
-
 ## Developer Engagement Documents
 
 Before we can collaborate on a project, we need a collaborator agreement. Please review the [collaborator wiki page](https://gitlab.com/groups/ccao-data-science---modeling/-/wikis/People/Contributing) for an overview of the documents required by our external collaboration program. Please email the completed documents to the current CDO (Chief Data Officer). 
@@ -21,5 +11,9 @@ Before we can collaborate on a project, we need a collaborator agreement. Please
 ## Teams
 
 The Data Department uses Microsoft Teams as its primary method of communication. External collaborators can be added to CCAO Teams group as guests. For an invite, please email the current CDO.
+
+## Bookmarks
+
+Additionally, take a moment to bookmark all the links marked with a :exclamation: under the "Useful Bookmarks" section of the [Resources](https://gitlab.com/groups/ccao-data-science---modeling/-/wikis/Handbook/Resources#useful-bookmarks) page.
 
 /assign @sweatyhandshake @dfsnow

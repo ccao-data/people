@@ -8,7 +8,7 @@ If you're reading this, then it's finally time to say goodbye. :sob: We're sad t
 - [ ] Schedule an informal exit chat with your supervisor.
 - [ ] Email [HR](assessor.ccaohr@cookcountyil.gov) to confirm your last day.
 - [ ] Delete any stored CCAO read-only database credentials on your local machine (if applicable).
-- [ ] Email the Chief Data Officer and Senior Data Scientists: 
+- [ ] Email the Chief Data Officer, Directors, and Senior Data Scientists: 
   - A reminder to change the permissions on your GitLab account
   - A reminder to revoke any private API/deploy keys
   - A reminder to revoke any relevant AWS permissions 

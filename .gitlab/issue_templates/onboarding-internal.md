@@ -35,7 +35,7 @@ HR/IT will provide login credentials for your CCAO email account. This is your m
 
 ## VPN
 
-If you plan to work remotely, you will need to use the county VPN to access internal files and servers. You should receive an email from Admins or NCC (at your county email address) with instructions on how to setup and use the VPN. You will receive a second, separate email to enroll in Duo, which provides multi-factor authentication. For VPN troubleshooting, email the [CCAO Admins](Assessor.admins@cookcountyil.gov). For more information on the VPN, see the [Data Department wiki](https://gitlab.com/groups/ccao-data-science---modeling/-/wikis/People/VPN).
+If you plan to work remotely, you will need to use the county VPN to access internal files and servers. You should receive an email from Admins or NCC (at your county email address) with instructions on how to setup and use the VPN. You will receive a second, separate email to enroll in Duo, which provides multi-factor authentication. For VPN troubleshooting, email the [CCAO Admins](Assessor.admins@cookcountyil.gov). For more information on the VPN, see the [Data Department wiki](https://gitlab.com/groups/ccao-data-science---modeling/-/wikis/Setup/Setup-the-Cook-County-VPN).
 
 - [ ] Complete the [Cook County VPN Access](/forms/new-hire/5.%20VPN%20Remote%20Access%20Waiver.pdf) form and email it to the CCAO's [Admins](Assessor.admins@cookcountyil.gov). You must use your CCAO email address when completing this form.
 - [ ] Install the Cook County VPN client on your computer and successfully connect (test by visiting the [CCAO intranet](http://intranet/)).
@@ -94,15 +94,15 @@ Additionally, the Data Department uses RStudio's projects feature to manage envi
 
 ## Issue Resolution
 
-The CCAO Data Department roughly uses [GitLab Flow](https://docs.gitlab.com/ee/topics/gitlab_flow.html) to manage its work. GitLab Flow uses a basic branch-per-issue system. Each issue or new feature is tied to a branch and merge request. Work is done on the branch, then merged to `master` (or `main`) after testing and review. Here's an example of a typical workflow:
+The CCAO Data Department roughly uses [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow) to manage its work. GitHub flow uses a basic branch-per-issue system. Each issue or new feature is tied to a branch and merge request. Work is done on the branch, then merged to `master` (or `main`) after testing and review. Here's an example of a typical workflow:
 
 1. You are assigned **Issue #118, Update Internal Contribution Guidelines** within GitLab.
-   * Check to see if there is a branch associated with your issue within GitLab. Branches created via issues usually have a similar name, in this case the branch name would be `118-update-internal-contribution-guidelines`.
-   * If a branch doesn't exist, then create one yourself. Each issue has an associated "Create Merge Request" button which will create a branch and merge request for that issue"
+  * Check to see if there is a branch associated with your issue within GitLab. Branches created via issues usually have a similar name, in this case the branch name would be `118-update-internal-contribution-guidelines`.
+  * If a branch doesn't exist, then create one yourself. Each issue has an associated "Create Merge Request" button which will create a branch and merge request for that issue.
 
 2. Checkout the issue branch.
-   * Within RStudio, navigate to the git pane, then click the branch name in the upper right-hand corner (usually **master**). Select the branch associated with the issue you have been assigned. In this case, `118-update-internal-contribution-guidelines`. You can also click different branch names to check them out.
-   * The branch you selected should now appear in the upper right-hand corner of the git pane. You are now working within that branch.
+  * Within RStudio, navigate to the git pane, then click the branch name in the upper right-hand corner (usually **master**). Select the branch associated with the issue you have been assigned. In this case, `118-update-internal-contribution-guidelines`. You can also click different branch names to check them out.
+  * The branch you selected should now appear in the upper right-hand corner of the git pane. You are now working within that branch.
 
 2. Work the issue. Use the issue page comments to communicate with your supervisor about the issue.
 
