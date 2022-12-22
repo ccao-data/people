@@ -35,7 +35,7 @@ HR/IT will provide login credentials for your CCAO email account. This is your m
 
 ## VPN
 
-If you plan to work remotely, you will need to use the county VPN to access internal files and servers. You should receive an email from Admins or NCC (at your county email address) with instructions on how to setup and use the VPN. You will receive a second, separate email to enroll in Duo, which provides multi-factor authentication. For VPN troubleshooting, email the [CCAO Admins](Assessor.admins@cookcountyil.gov). For more information on the VPN, see the [Data Department wiki](https://gitlab.com/groups/ccao-data-science---modeling/-/wikis/Setup/Setup-the-Cook-County-VPN).
+If you plan to work remotely, you will need to use the county VPN to access internal files and servers. You should receive an email from Admins or NCC (at your county email address) with instructions on how to setup and use the VPN. You will receive a second, separate email to enroll in Duo, which provides multi-factor authentication. For VPN troubleshooting, email the [CCAO Admins](Assessor.admins@cookcountyil.gov). For more information on the VPN, see the [Data Department wiki](https://gitlab.com/groups/ccao-data-science---modeling/-/wikis/How-To/Setup-the-Cook-County-VPN).
 
 - [ ] Complete the [Cook County VPN Access](/forms/new-hire/5.%20VPN%20Remote%20Access%20Waiver.pdf) form and email it to the CCAO's [Admins](Assessor.admins@cookcountyil.gov). You must use your CCAO email address when completing this form.
 - [ ] Install the Cook County VPN client on your computer and successfully connect (test by visiting the [CCAO intranet](http://intranet/)).
@@ -132,7 +132,7 @@ Data Department fellows do not need to submit time sheets to the CCAO. They are 
 All new hires, interns, and fellows are required to read the following:
 
 - [ ] [Data Department Handbook](https://gitlab.com/groups/ccao-data-science---modeling/-/wikis/Handbook/Handbook) - Outlines the purpose, procedures, and practices of the department
-- [ ] [Data Department Mission, Vision, and Values](https://gitlab.com/groups/ccao-data-science---modeling/-/wikis/Handbook/Mission%20Vision%20Values) - Outlines the principles and goals of the department
+- [ ] [Data Department Mission, Vision, and Values](https://gitlab.com/groups/ccao-data-science---modeling/-/wikis/Handbook/Mission-Vision-Values) - Outlines the principles and goals of the department
 - [ ] [Data Department Resources Page](https://gitlab.com/groups/ccao-data-science---modeling/-/wikis/Handbook/Resources) - Read everything marked with a :exclamation:. You can skip *R for Data Science* and *Select Star SQL* if you're already proficient in R/SQL.
 - [ ] [Data Department Glossary](https://gitlab.com/groups/ccao-data-science---modeling/-/wikis/Handbook/Glossary) - The CCAO uses a lot of assessment- and office-specific jargon. Read through this glossary to get acquainted with some of the terms.
 
