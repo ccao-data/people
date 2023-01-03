@@ -97,23 +97,19 @@ Additionally, the Data Department uses RStudio's projects feature to manage envi
 The CCAO Data Department roughly uses [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow) to manage its work. GitHub flow uses a basic branch-per-issue system. Each issue or new feature is tied to a branch and merge request. Work is done on the branch, then merged to `master` (or `main`) after testing and review. Here's an example of a typical workflow:
 
 1. You are assigned **Issue #118, Update Internal Contribution Guidelines** within GitLab.
-  * Check to see if there is a branch associated with your issue within GitLab. Branches created via issues usually have a similar name, in this case the branch name would be `118-update-internal-contribution-guidelines`.
-  * If a branch doesn't exist, then create one yourself. Each issue has an associated "Create Merge Request" button which will create a branch and merge request for that issue.
-
+    * Check to see if there is a branch associated with your issue within GitLab. Branches created via issues usually have a similar name, in this case the branch name would be `118-update-internal-contribution-guidelines`.
+    * If a branch doesn't exist, then create one yourself. Each issue has an associated "Create Merge Request" button which will create a branch and merge request for that issue.
 2. Checkout the issue branch.
-  * Within RStudio, navigate to the git pane, then click the branch name in the upper right-hand corner (usually **master**). Select the branch associated with the issue you have been assigned. In this case, `118-update-internal-contribution-guidelines`. You can also click different branch names to check them out.
-  * The branch you selected should now appear in the upper right-hand corner of the git pane. You are now working within that branch.
-
+    * Within RStudio, navigate to the git pane, then click the branch name in the upper right-hand corner (usually **master**). Select the branch associated with the issue you have been assigned. In this case, `118-update-internal-contribution-guidelines`. You can also click different branch names to check them out.
+    * The branch you selected should now appear in the upper right-hand corner of the git pane. You are now working within that branch.
 2. Work the issue. Use the issue page comments to communicate with your supervisor about the issue.
-
 3. Commit often and use [descriptive commit messages](https://commit.style/). Only push to your issue branch, never directly to `master`.
-
 4. When you have finished working on the issue:
-   * Push all work to your issue branch
-   * Create a merge request if one doesn't exist already
-   * If a merge request exists but is tagged as **Work-in-progress**, remove the WIP tag using the GitLab UI
-   * Request approval for your merge request to let your supervisor know you've finished working the issue
-   * Merge your code. You can select **Merge Immediately** from the merge dropdown (we rarely use merge trains)
+    * Push all work to your issue branch
+    * Create a merge request if one doesn't exist already
+    * If a merge request exists but is tagged as **Work-in-progress**, remove the WIP tag using the GitLab UI
+    * Request approval for your merge request to let your supervisor know you've finished working the issue
+    * Merge your code. You can select **Merge Immediately** from the merge dropdown (we rarely use merge trains)
 
 See the [Version Control and Workflow](https://gitlab.com/groups/ccao-data-science---modeling/-/wikis/Handbook/Handbook#version-control-and-workflow) section of the handbook for more information.
 
