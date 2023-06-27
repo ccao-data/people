@@ -1,9 +1,9 @@
-This repository contains:
+This repository serves as the entrypoint for onboarding both new employees/interns and external contributors. Internal contributors should create an issue using one of the following templates:
 
-* Documents, forms, and issue templates for onboarding and offboarding Data Department staff and collaborators
-  * [Onboarding for new employees and interns](.github/ISSUE_TEMPLATE/onboarding-internal.md)
-  * [Onboarding for returning employees and interns](.github/ISSUE_TEMPLATE/onboarding-returning.md)
-  * [Onboarding for external contributors](.github/ISSUE_TEMPLATE/onboarding-external.md)
-  * [Offboarding for interns](.github/ISSUE_TEMPLATE/offboarding.md)
-* Documents related to hiring and training
+* [Onboarding for new employees and interns](.github/ISSUE_TEMPLATE/onboarding-internal.md)
+* [Onboarding for returning employees and interns](.github/ISSUE_TEMPLATE/onboarding-returning.md)
+* [Onboarding for external contributors](.github/ISSUE_TEMPLATE/onboarding-external.md)
+* [Offboarding for interns](.github/ISSUE_TEMPLATE/offboarding.md)
+
+External contributors should see [CONTRIBUTING.md](CONTRIBUTING.md).
 
