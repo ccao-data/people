@@ -1,5 +1,5 @@
 ---
-name: Onboarding Internal
+name: Onboarding internal
 about: For onboarding new employees and interns
 title: "Onboarding [FULL NAME]"
 labels: internal
