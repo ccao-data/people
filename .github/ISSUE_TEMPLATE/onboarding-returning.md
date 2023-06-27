@@ -1,3 +1,10 @@
+---
+name: Onboarding Returning
+about: For onboarding returning employees and interns
+title: "Onboarding "
+assignees: dfsnow
+---
+
 Welcome back! This issue ticket serves as a checklist for your return to the CCAO. If at any point you need help, please reach out to Billy @sweatyhandshake, Dan @dfsnow, or Nicole @ccaojardine.
 
 - [ ] Verify that you have access to your existing CCAO email.

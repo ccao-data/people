@@ -1,19 +1,26 @@
-Welcome to the Cook County Assessor's Office (CCAO) Data Department! We're excited to have you! This webpage is a GitLab issue. An issue is a way to track work that needs to be done. This particular issue outlines the tasks you need to complete to onboard with the Data Department. Once you complete each task, please mark the checkbox as shown below:
+---
+name: Onboarding Internal
+about: For onboarding new employees and interns
+title: "Onboarding "
+assignees: dfsnow
+---
+
+Welcome to the Cook County Assessor's Office (CCAO) Data Department! We're excited to have you! This webpage is a GitHub issue. An issue is a way to track work that needs to be done. This particular issue outlines the tasks you need to complete to onboard with the Data Department. Once you complete each task, please mark the checkbox as shown below:
 
 - [x] This task is complete.
 
-If a task does not apply to you, please mark it anyways so we can track the progress of this issue. If you have a question at any point, please feel free to comment on this issue ticket and tag Billy (@sweatyhandshake), Dan (@dfsnow), or Nicole (@ccaojardine).
+If a task does not apply to you, please mark it anyways so we can track the progress of this issue. If you have a question at any point, please feel free to comment on this issue ticket and tag the [core team](https://github.com/orgs/ccao-data/teams/core-team) using [@ccao-data/core-team](https://github.com/orgs/ccao-data/teams/core-team).
 
-# GitLab
+# GitHub
 
-Nearly all of the Data Department's work is tracked using GitLab. In order to participate in this issue and contribute to the Department, you will need a GitLab account.
+Nearly all of the Data Department's work is tracked using GitHub. In order to participate in this issue and contribute to the Department, you will need a GitHub account.
 
-- [ ] Create a [GitLab](https://gitlab.com/) account. If you do not already have one, create a free [GitLab](https://gitlab.com/) account using your personal email address.
-- [ ] Log in to [GitLab](https://gitlab.com/) and comment on this issue ticket to let us know your username.
+- [ ] Create a [GitHub](https://github.com/) account. If you do not already have one, create a free [GitHub](https://github.com/) account using your personal email address.
+- [ ] Log in to [GitHub](https://github.com/) and comment on this issue ticket to let us know your username.
 
-Please note that your GitLab account can persist after your employment/internship has ended and can be a valuable resource in your career. Your work will mostly be public, so please take a moment to review [GitLab's communication guidelines](https://about.gitlab.com/handbook/communication/#effective--responsible-communication-guidelines).
+Please note that your GitHub account can persist after your employment/internship has ended and can be a valuable resource in your career. Your work will mostly be public, so please take a moment to review [GitHub's community guidelines](https://docs.github.com/en/site-policy/github-terms/github-community-guidelines).
 
-You may also want to explore GitLab to familiarize yourself with the platform. The main CCAO GitLab group can be found [here](https://gitlab.com/ccao-data-science---modeling).
+You may also want to explore GitHub to familiarize yourself with the platform. The main CCAO GitHub group can be found [here](https://github.com/ccao-data).
 
 # Before Your First Day
 
@@ -27,7 +34,7 @@ Official onboarding paperwork is handled by the CCAO's Human Resources Departmen
 
 ## Email
 
-When you work in the public sector in Illinois your work correspondence is considered an official record. It is important that you do not use your personal email account, Dropbox, Google Drive, or any other personal digital accounts or systems to do your work. **All CCAO work should be done using CCAO provided emails and file storage locations.** 
+When you work in the public sector in Illinois your work correspondence is considered an official record. It is important that you do not use your personal email account, Dropbox, Google Drive, or any other personal digital accounts or systems to do your work. **All CCAO work should be done using CCAO provided emails and file storage locations.**
 
 HR/IT will provide login credentials for your CCAO email account. This is your main account at the CCAO. It is used to access email, Teams, and all Microsoft products.
 
@@ -35,14 +42,14 @@ HR/IT will provide login credentials for your CCAO email account. This is your m
 
 ## VPN
 
-If you plan to work remotely, you will need to use the county VPN to access internal files and servers. You should receive an email from Admins or NCC (at your county email address) with instructions on how to setup and use the VPN. You will receive a second, separate email to enroll in Duo, which provides multi-factor authentication. For VPN troubleshooting, email the [CCAO Admins](Assessor.admins@cookcountyil.gov). For more information on the VPN, see the [Data Department wiki](https://gitlab.com/groups/ccao-data-science---modeling/-/wikis/How-To/Setup-the-Cook-County-VPN).
+If you plan to work remotely, you will need to use the county VPN to access internal files and servers. You should receive an email from Admins or NCC (at your county email address) with instructions on how to setup and use the VPN. You will receive a second, separate email to enroll in Duo, which provides multi-factor authentication. For VPN troubleshooting, email the [CCAO Admins](Assessor.admins@cookcountyil.gov). For more information on the VPN, see the [Data Department wiki](https://github.com/ccao-data/wiki/How-To/Setup-the-Cook-County-VPN.md).
 
 - [ ] Complete the [Cook County VPN Access](/forms/new-hire/5.%20VPN%20Remote%20Access%20Waiver.pdf) form and email it to the CCAO's [Admins](Assessor.admins@cookcountyil.gov). You must use your CCAO email address when completing this form.
 - [ ] Install the Cook County VPN client on your computer and successfully connect (test by visiting the [CCAO intranet](http://intranet/)).
 
 ## Teams
 
-Ask or [email](mailto:nicole.jardine@cookcountyil.gov) @ccaojardine for an invite to the Data Department "Team" within the CCAO group and the "General" chat within that Team.
+Ask or [email the CDO](mailto:nicole.jardine@cookcountyil.gov) for an invite to the Data Department "Team" within the CCAO group and the "General" chat within that Team.
 
 - [ ] Send a Teams message to the Data Department "General" chat introducing yourself.
 
@@ -62,7 +69,7 @@ Once your W4 is filled out, you can (optionally) enroll in direct deposit using 
 
 The CCAO Data Department is currently working on a hybrid schedule. We are in-office on Wednesday and Thursday and remote the rest of the week. Interns are encourage to spend at least one day per week in-office with the team.
 
-## Hardware and Software 
+## Hardware and Software
 
 You will be issued a CCAO laptop as part of your onboarding. This laptop has all the software you need pre-installed. When working remotely, you can take your CCAO laptop home OR use a personal machine. You will need to use the [VPN](#vpn-client) to connect to CCAO resources while not in the office.
 
@@ -115,7 +122,7 @@ See the [Version Control and Workflow](https://gitlab.com/groups/ccao-data-scien
 
 ## Intern Hours, Projects, and Time Tracking
 
-Interns may work up to 20 hours per week and are encouraged to do so. Working 15 hours or less may limit the assignments you receive, as most of our departmental projects require a significant time investment. Intern schedules and certain events are tracked on a shared calendar (the Data Department calendar). 
+Interns may work up to 20 hours per week and are encouraged to do so. Working 15 hours or less may limit the assignments you receive, as most of our departmental projects require a significant time investment. Intern schedules and certain events are tracked on a shared calendar (the Data Department calendar).
 
 - [ ] Email your preferred schedule to [Nicole](mailto:nicole.jardine@cookcountyil.gov) and [Dan](mailto:daniel.snow@cookcountyil.gov). Include the days and times you will be working and the date of your last day. Subject: 'YOUR NAME - Internship Hours'
 
@@ -137,5 +144,3 @@ Additionally, take a moment to bookmark all the links marked with a :exclamation
 If you have downtime while working, we highly recommend reading anything marked with a :star: on the [Resources](https://gitlab.com/groups/ccao-data-science---modeling/-/wikis/Handbook/Resources) page.
 
 NOTE: Please report any broken links, spelling/grammar mistakes, or inaccurate instructions in this issue to @dfsnow.
-
-/assign @dfsnow @ccaojardine
