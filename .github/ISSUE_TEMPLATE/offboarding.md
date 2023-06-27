@@ -1,8 +1,8 @@
 ---
 name: Offboarding
 about: For offboarding departing interns and fellows
-title: "Offboarding "
-assignees: dfsnow
+title: "Offboarding [FULL NAME]"
+labels: internal
 ---
 
 > :warning: This page only applies to CCAO Data Department interns, capstone students, and fellows who are leaving at the end of their quarter/semester.

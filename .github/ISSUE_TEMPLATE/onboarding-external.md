@@ -1,8 +1,8 @@
 ---
 name: Onboarding External
 about: For onboarding external collaborators and partners
-title: "Onboarding "
-assignees: dfsnow
+title: "Onboarding [FULL NAME OR ORGANIZATION]"
+labels: external
 ---
 
 Thank you for partnering with the Cook County Assessor's Data Department. Please read the content below to get started.

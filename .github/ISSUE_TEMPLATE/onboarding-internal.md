@@ -1,8 +1,8 @@
 ---
 name: Onboarding Internal
 about: For onboarding new employees and interns
-title: "Onboarding "
-assignees: dfsnow
+title: "Onboarding [FULL NAME]"
+labels: internal
 ---
 
 Welcome to the Cook County Assessor's Office (CCAO) Data Department! We're excited to have you! This webpage is a GitHub issue. An issue is a way to track work that needs to be done. This particular issue outlines the tasks you need to complete to onboard with the Data Department. Once you complete each task, please mark the checkbox as shown below:
