@@ -1,16 +1,31 @@
 # People
 
-This repository serves as the entrypoint for onboarding both new employees/interns and external contributors. Please follow the steps outlined below, respective to your contributor type.
+This repository serves as the entrypoint for all internal and external contributors. Please follow the steps outlined below, respective to your contributor type.
 
-## Onboarding
+## Internal
 
-* **Internal contributors** should check the issues in this repository for an onboarding issue with their name in the title. If such an issue does not exist, click one of the links below to create a new one using a template:
-  * [Onboarding for new employees and interns](https://github.com/ccao-data/people/issues/new?assignees=&labels=internal&projects=&template=onboarding-internal.md&title=Onboarding+%5BFULL+NAME%5D)
-  * [Onboarding for returning employees and interns](https://github.com/ccao-data/people/issues/new?assignees=&labels=internal&projects=&template=onboarding-returning.md&title=Onboarding+%5BFULL+NAME%5D)
-* **External contributors** should read [CONTRIBUTING.md](CONTRIBUTING.md) and then create a new issue using the following link: [Onboarding for external contributors](https://github.com/ccao-data/people/issues/new?assignees=&labels=external&projects=&template=onboarding-external.md&title=Onboarding+%5BFULL+NAME+OR+ORGANIZATION%5D)
+Includes employees, interns, and fellows i.e. people working _for_ the Data Department.
 
-## Offboarding
+#### Onboarding
 
-* **Interns** should check the issues in this repository for an offboarding issue with their name in the title. If such an issue does not already exist, create a new one using the following link: [Offboarding for interns](https://github.com/ccao-data/people/issues/new?labels=internal&template=offboarding.md&title=Offboarding+%5BFULL+NAME%5D)
-* **Employees** offboard via a more formal internal HR process. Please contact your immediate supervisor for more information.
-* **External contributors** should email the CDO or contact [@ccao-data/core-team](https://github.com/orgs/ccao-data/teams/core-team) for offboarding steps.
+Check the [issues](https://github.com/ccao-data/people/issues) in this repository for an onboarding issue with your name in the title. If one doesn't exist, do one of the following:
+  * **New employees and interns** should create an issue with the [onboarding-internal](https://github.com/ccao-data/people/issues/new?assignees=&labels=internal&projects=&template=onboarding-internal.md&title=Onboarding+%5BFULL+NAME%5D) template.
+  * **Returning employees and interns** should create an issue with the [onboarding-returning](https://github.com/ccao-data/people/issues/new?assignees=&labels=internal&projects=&template=onboarding-returning.md&title=Onboarding+%5BFULL+NAME%5D) template.
+
+#### Offboarding
+
+Check the [issues](https://github.com/ccao-data/people/issues) in this repository for an offboarding issue with your name in the title. If one doesn't exist, do one of the following:
+  * **Interns** should create an issue with the [offboarding](https://github.com/ccao-data/people/issues/new?labels=internal&template=offboarding.md&title=Offboarding+%5BFULL+NAME%5D) template.
+  * **Employees** offboard via a more formal internal HR process. Please contact your immediate supervisor for more information.
+
+## External
+
+Includes contractors, vendors, partners, and collaborators i.e. people working _with_ the Data Department.
+
+#### Onboarding
+
+* Read [CONTRIBUTING.md](CONTRIBUTING.md) and then create a new [issue](https://github.com/ccao-data/people/issues) using [onboarding-external](https://github.com/ccao-data/people/issues/new?assignees=&labels=external&projects=&template=onboarding-external.md&title=Onboarding+%5BFULL+NAME+OR+ORGANIZATION%5D) template.
+
+#### Offboarding
+
+* Email the CDO or contact [@ccao-data/core-team](https://github.com/orgs/ccao-data/teams/core-team) for next steps.
