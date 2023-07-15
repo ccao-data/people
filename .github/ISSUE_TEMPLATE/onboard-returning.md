@@ -1,7 +1,7 @@
 ---
-name: Onboarding returning
+name: Onboard returning
 about: For onboarding returning employees and interns
-title: "Onboarding [FULL NAME]"
+title: "Onboard [FULL NAME]"
 labels: internal
 ---
 

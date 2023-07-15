@@ -1,7 +1,7 @@
 ---
-name: Onboarding external
+name: Onboard external
 about: For onboarding external collaborators and partners
-title: "Onboarding [FULL NAME OR ORGANIZATION]"
+title: "Onboard [FULL NAME OR ORGANIZATION]"
 labels: external
 ---
 
