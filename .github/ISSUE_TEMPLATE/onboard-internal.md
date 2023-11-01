@@ -139,6 +139,7 @@ All new hires, interns, and fellows are required to read the following:
 - [ ] [Data Department Mission, Vision, and Values](https://github.com/ccao-data/wiki/blob/master/Handbook/Mission-Vision-Values.md) - Outlines the principles and goals of the department
 - [ ] [Data Department Resources Page](https://github.com/ccao-data/wiki/blob/master/Handbook/Resources.md) - Read everything marked with a :exclamation:. You can skip *R for Data Science* and *Select Star SQL* if you're already proficient in R/SQL.
 - [ ] [Data Department Glossary](https://github.com/ccao-data/wiki/blob/master/Handbook/Glossary.md) - The CCAO uses a lot of assessment- and office-specific jargon. Read through this glossary to get acquainted with some of the terms.
+- [ ] [Data Department Data Catalog](https://ccao-data.github.io/data-architecture) - Architecture overview and database documentation for all Data Department assets. Read through the landing page and explore the data catalog a bit.
 
 Additionally, take a moment to bookmark all the links marked with a :exclamation: under the "Useful Bookmarks" section of the [Resources](https://github.com/ccao-data/wiki/blob/master/Handbook/Resources.md) page.
 
