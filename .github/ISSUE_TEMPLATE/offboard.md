@@ -32,16 +32,12 @@ In addition to the items above, we ask that you write up a short (one page) docu
 - The solution you implemented and any methods used
 - The duration of the project
 - The impact of the project
+- Links to the relevant repository and/or issues
 - Any remaining next steps
 
-Upon completion, anticipate that the memo will be sent by the project lead/CDO to the:
-
-- Chief Operations Officer
-- Director of Data Integrity
-- Chief Valuations Officer
-- Chief of Staff
+Upon completion, anticipate the memo will be sent by the project lead/CDO to other executives, such as the Chief of Staff and the Assessor.
 
 If you so choose, the memo may also be used as the basis for a Data Department blog post, which will publicly summarize your work. We will share this post with you upon completion. If you do not wish to be featured in public posts, leave the boxes below unchecked.
 
-- [ ] I consent to my work being featured in Data Department public blogs posts
-- [ ] I approve of the Data Department using my memo as the background material for such posts
+- [ ] I consent to my work being featured publicly, such as a Data Department blog post or on the Assessor's website
+- [ ] I approve of the CCAO using my memo as the background material for such posts
