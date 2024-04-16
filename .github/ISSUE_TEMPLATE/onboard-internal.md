@@ -48,6 +48,14 @@ If you plan to work remotely, you will need to use the county VPN to access inte
 - [ ] Complete the Cook County VPN Access Form (which you will receive via email) and email it to the CCAO's [Admins](Assessor.admins@cookcountyil.gov). You must use your CCAO email address when completing this form.
 - [ ] Install the Cook County VPN client on your computer and successfully connect (test by visiting the [CCAO intranet](http://intranet/)).
 
+## ID Card
+
+With added security, interns and staff now need to obtain a County employee ID badge and activate it so they can badge in to access the 9th floor via elevator. If the staff member wants to take the elevator directly to the 9th floor, the following steps must occur in this order after the staff member is in payroll:
+
+- [ ] Go to the Cook County Bureau of Human Resources, on the 8th floor in room 834 of the county building,  Monday-Thursday, 9am-2pm. Your photo will be taken and your card promptly printed.
+- [ ] Email the CCAO's Manager of Payroll to inform them that you have your County employee ID. 
+- [ ] Fill out and return the paperwork that is sent by the Manager of Payroll. 
+
 ## Teams
 
 Ask a member of [@ccao-data/core-team](https://github.com/orgs/ccao-data/teams/core-team) for an invite to the Data Department "Team" within the CCAO group and the "General" chat within that Team.
