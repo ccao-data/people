@@ -9,7 +9,7 @@ Welcome back! This issue ticket serves as a checklist for your return to the CCA
 
 - [ ] Verify that you have access to your existing CCAO email.
 - [ ] Verify that you have VPN access.
-- [ ] Verify that you have an ID badge with security access to 9th floor.
+- [ ] Verify that your County employee ID badge grants access to 9th floor.
 - [ ] Verify that you're able to send messages in Teams.
 - [ ] If you're using a local machine, install the latest versions of [R](https://cloud.r-project.org/) and [RStudio](https://posit.co/download/rstudio-desktop/#download).
 - [ ] If you're using a local machine, validate your git configuration (make sure you can push and pull).
