@@ -50,7 +50,7 @@ If you plan to work remotely, you will need to use the county VPN to access inte
 
 ## ID Card
 
-With added security, interns and staff now need to obtain a County employee ID badge and activate it so they can badge in to access the 9th floor via elevator. If the staff member wants to take the elevator directly to the 9th floor, the following steps must occur in this order after the staff member is in payroll:
+Interns and staff need to obtain a County employee ID badge and activate it. The badge grants access to the 9th floor via elevator. To obtain an ID badge, perform the following steps after the you've been added to the payroll system:
 
 - [ ] Go to the Cook County Bureau of Human Resources, on the 8th floor in room 834 of the county building,  Monday-Thursday, 9am-2pm. Your photo will be taken and your card promptly printed.
 - [ ] Email the CCAO's Manager of Payroll to inform them that you have your County employee ID. 
