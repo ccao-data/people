@@ -53,8 +53,8 @@ If you plan to work remotely, you will need to use the county VPN to access inte
 Interns and staff need to obtain a County employee ID badge and activate it. The badge grants access to the 9th floor via elevator. To obtain an ID badge, perform the following steps after the you've been added to the payroll system:
 
 - [ ] Go to the Cook County Bureau of Human Resources, on the 8th floor in room 834 of the County building. The HR office is open Monday-Thursday, 9am-2pm. Your photo will be taken and your card promptly printed.
-- [ ] Email the CCAO's Manager of Payroll to inform them that you have your County employee ID. 
-- [ ] Fill out and return any paperwork provided by the Manager of Payroll. 
+- [ ] Email the CCAO's Manager of Payroll to inform them that you have your County employee ID.
+- [ ] Fill out and return any paperwork provided by the Manager of Payroll.
 
 ## Teams
 
@@ -149,7 +149,7 @@ All new hires, interns, and fellows are required to read the following:
 - [ ] [Data Department Glossary](https://github.com/ccao-data/wiki/blob/master/Handbook/Glossary.md) - The CCAO uses a lot of assessment- and office-specific jargon. Read through this glossary to get acquainted with some of the terms.
 - [ ] [Data Department Data Catalog](https://ccao-data.github.io/data-architecture) - Architecture overview and database documentation for all Data Department assets. Read through the landing page and explore the data catalog a bit.
 
-Additionally, take a moment to bookmark all the links marked with a :exclamation: under the "Useful Bookmarks" section of the [Resources](https://github.com/ccao-data/wiki/blob/master/Handbook/Resources.md) page.
+Additionally, take a moment to visit the [internal org-level README](https://github.com/ccao-data?view_as=member) and investigate the listed services. We highly recommend you use this page as your entrypoint to all work at the CCAO.
 
 If you have downtime while working, we highly recommend reading anything marked with a :star: on the [Resources](https://github.com/ccao-data/wiki/blob/master/Handbook/Resources.md) page.
 

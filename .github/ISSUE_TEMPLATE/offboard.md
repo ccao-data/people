@@ -16,13 +16,13 @@ If you're reading this, then it's finally time to say goodbye. :sob: We're sad t
 - [ ] Schedule an informal exit chat with your supervisor.
 - [ ] Email [HR](assessor.ccaohr@cookcountyil.gov) to confirm your last day.
 - [ ] Delete any stored CCAO read-only database credentials on your local machine (if applicable).
-- [ ] Email the Chief Data Officer, Directors, and Senior Data Scientists:
+- [ ] Email the Chief Data Officer and Directors:
   - A reminder to change the permissions on your GitHub account and remove you from any relevant GitHub teams
   - A reminder to revoke any private API/deploy keys
   - A reminder to revoke any relevant AWS permissions
   - Your contact information, in case we need to follow-up on something you worked on
-  - A reminder to add you to the [list of former interns and employees used to generate model names](https://github.com/ccao-data/ccao/blob/master/data-raw/ccao_ids.R)
-- [ ] Deliver your wrap-up memo (see below) to your project lead and the CDO via email
+  - A reminder to add you to the [list of former interns and employees used to generate model names](https://github.com/ccao-data/data-architecture/blob/master/dbt/seeds/ccao/ccao.person.csv)
+- [ ] Deliver your wrap-up memo (see below) to your project lead and the CDO via PR
 
 # Memo
 
@@ -35,7 +35,7 @@ In addition to the items above, we ask that you write up a short (one page) docu
 - Links to the relevant repository and/or issues
 - Any remaining next steps
 
-Upon completion, anticipate the memo will be sent by the project lead/CDO to other executives, such as the Chief of Staff and the Assessor.
+The memo should be submitted as a pull request to the [CCAO blog repository](https://github.com/ccao-data/blog). See that repository for examples of previous intern memos and their format. Upon completion, anticipate the memo will be sent by the project lead/CDO to other executives, such as the Chief of Staff and the Assessor.
 
 If you so choose, the memo may also be used as the basis for a Data Department blog post, which will publicly summarize your work. We will share this post with you upon completion. If you do not wish to be featured in public posts, leave the boxes below unchecked.
 
