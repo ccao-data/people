@@ -1,8 +1,10 @@
 ---
 name: Onboard returning
 about: For onboarding returning employees and interns
-title: "Onboard [FULL NAME]"
+title: Onboard [FULL NAME]
 labels: internal
+assignees: ''
+
 ---
 
 Welcome back! This issue ticket serves as a checklist for your return to the CCAO. If at any point you need help, please reach out to [@ccao-data/core-team](https://github.com/orgs/ccao-data/teams/core-team).

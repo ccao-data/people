@@ -1,8 +1,10 @@
 ---
 name: Onboard internal
 about: For onboarding new employees and interns
-title: "Onboard [FULL NAME]"
+title: Onboard [FULL NAME]
 labels: internal
+assignees: ''
+
 ---
 
 Welcome to the Cook County Assessor's Office (CCAO) Data Department! We're excited to have you! This webpage is a GitHub issue. An issue is a way to track work that needs to be done. This particular issue outlines the tasks you need to complete to onboard with the Data Department. Once you complete each task, please mark the checkbox as shown below:
@@ -152,5 +154,13 @@ All new hires, interns, and fellows are required to read the following:
 Additionally, take a moment to visit the [internal org-level README](https://github.com/ccao-data?view_as=member) and investigate the listed services. We highly recommend you use this page as your entrypoint to all work at the CCAO.
 
 If you have downtime while working, we highly recommend reading anything marked with a :star: on the [Resources](https://github.com/ccao-data/wiki/blob/master/Handbook/Resources.md) page.
+
+
+## Suggested reading for full-time employees
+- [ ] [Cook County Pension](https://www.cookcountypension.com/) - about the pension plan.
+- [ ] [Cook County Deferred Compensation](https://www.cookcountydc.com/rsc-web-preauth/index.html) - This is a 457(b) retirement savings vehicle, similar to a 403(b), that you can choose to enroll in with a maximum annual contribution of $23k. It is separate from (and in addition to) your pension. 
+
+# Welcome!
+We're looking forward to working with you. 
 
 NOTE: Please report any broken links, spelling/grammar mistakes, or inaccurate instructions in this issue to [@ccao-data/core-team](https://github.com/orgs/ccao-data/teams/core-team).

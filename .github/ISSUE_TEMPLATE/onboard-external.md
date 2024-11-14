@@ -1,8 +1,10 @@
 ---
 name: Onboard external
 about: For onboarding external collaborators and partners
-title: "Onboard [FULL NAME OR ORGANIZATION]"
+title: Onboard [FULL NAME OR ORGANIZATION]
 labels: external
+assignees: ''
+
 ---
 
 Thank you for partnering with the Cook County Assessor's Data Department. Please read the content below to get started.

@@ -1,8 +1,10 @@
 ---
 name: Offboard
 about: For offboarding departing interns and fellows
-title: "Offboard [FULL NAME]"
+title: Offboard [FULL NAME]
 labels: internal
+assignees: ''
+
 ---
 
 > [!WARNING]
