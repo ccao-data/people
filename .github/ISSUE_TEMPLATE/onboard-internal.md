@@ -95,7 +95,7 @@ If you're not using a personal machine, or already have the necessary tools inst
 
 For actual coding and computation, the Data Department uses an on-premise server. The server can be accessed via SSH, RStudio, or JupyterLab as long as you are connected to the county VPN. To gain access to the server, you will need an account.
 
-- [ ] Send a Teams message to Dan ([@dfsnow](https://github.com/dfsnow)) requesting an RStudio/server account.
+- [ ] Send a Teams message to Jean ([@jeancochrane](https://github.com/jeancochrane)) requesting an RStudio/server account.
 
 Once your account is created, you can connect to the server via [RStudio](https://datascience.cookcountyassessor.com/rstudio/) or [JupyterLab](https://datascience.cookcountyassessor.com/jupyter).
 
