@@ -45,7 +45,7 @@ HR/IT will provide login credentials for your CCAO email account. This is your m
 
 ## VPN
 
-To work remotely, you will need to use the county VPN to access internal files and servers. The CCAO requires you to complete training before you can use the VPN. 
+To work remotely, you will need to use the county VPN to access internal files and servers. The CCAO requires you to complete security training before you can use the VPN. 
 
 Within 1-2 days of your onboarding date, your county email should receive an email or emails about required security training. You will receive a second, separate email to enroll in Duo, which provides multi-factor authentication. For more information on the VPN, see the [Data Department wiki](https://github.com/ccao-data/wiki/blob/master/How-To/Setup-the-Cook-County-VPN.md).
 
