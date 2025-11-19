@@ -50,7 +50,7 @@ To work remotely, you will need to use the county VPN to access internal files a
 Within 1-2 days of your onboarding date, your county email should receive an email or emails about required security training. You will receive a second, separate email to enroll in Duo, which provides multi-factor authentication. For more information on the VPN, see the [Data Department wiki](https://github.com/ccao-data/wiki/blob/master/How-To/Setup-the-Cook-County-VPN.md).
 
 - [ ] As soon as possible, complete security training on [Cook County Learns](https://learningmanager.adobe.com/CookCountyGovernment), the CCAO's Learning Management Platform. If you have not received an invitation for this in your county email, please let the Deputy know.
-- [ ] After you complete your security training, your county email should receive an email from Admins or NCC with a pdf of the Cook County VPN Access Form. You must use your CCAO email address when completing this form. When the form is complete, submit it using the ["VPN Access" IT Helpdesk ticket]([url](https://cookcountyassessor.freshservice.com/support/catalog/items/71)).
+- [ ] After you complete your security training, your county email should receive an email from Admins or NCC with a pdf of the Cook County VPN Access Form. You must use your CCAO email address when completing this form. When the form is complete, submit it using the ["VPN Access" IT Helpdesk ticket](https://cookcountyassessor.freshservice.com/support/catalog/items/71).
 
 Once CCAO IT has processed your VPN Access Form, you will receive instructions on how to sign in to the VPN Client.
 
