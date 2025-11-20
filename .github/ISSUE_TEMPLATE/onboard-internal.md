@@ -17,7 +17,7 @@ If a task does not apply to you, please mark it anyways so we can track the prog
 
 Nearly all of the Data Department's work is tracked using GitHub. In order to participate in this issue and contribute to the Department, you will need a GitHub account.
 
-- [ ] Create a [GitHub](https://github.com/) account. If you do not already have one, create a free [GitHub](https://github.com/) account using your personal email address.
+- [ ] Create a [GitHub](https://github.com/) account. If you do not already have one, create a free [GitHub](https://github.com/) account using your personal or university email address.
 - [ ] Log in to [GitHub](https://github.com/) and comment on this issue ticket to let us know your username.
 - [ ] Ask a core team member to add you to the relevant [team](https://github.com/orgs/ccao-data/teams).
 
@@ -25,9 +25,9 @@ Please note that your GitHub account can persist after your employment/internshi
 
 You may also want to explore GitHub to familiarize yourself with the platform. The main CCAO GitHub group can be found [here](https://github.com/ccao-data).
 
-# Before Your First Day
+# On or Before Your First Day
 
-There are a number of administrative tasks you need to complete before you start working with the Data Department. These will typically occur before your first day.
+There are a number of administrative tasks you need to complete before you start working with the Data Department. These will typically occur on or before your first day. 
 
 ## HR Paperwork
 
@@ -45,17 +45,24 @@ HR/IT will provide login credentials for your CCAO email account. This is your m
 
 ## VPN
 
-If you plan to work remotely, you will need to use the county VPN to access internal files and servers. You should receive an email from Admins or NCC (at your County email address) with instructions on how to setup and use the VPN. You will receive a second, separate email to enroll in Duo, which provides multi-factor authentication. For VPN troubleshooting, email the [CCAO Admins](Assessor.admins@cookcountyil.gov). For more information on the VPN, see the [Data Department wiki](https://github.com/ccao-data/wiki/blob/master/How-To/Setup-the-Cook-County-VPN.md).
+To work remotely, you will need to use the county VPN to access internal files and servers. The CCAO requires you to complete security training before you can use the VPN. 
 
-- [ ] Complete the Cook County VPN Access Form (which you will receive via email) and email it to the CCAO's [Admins](Assessor.admins@cookcountyil.gov). You must use your CCAO email address when completing this form.
-- [ ] Install the Cook County VPN client on your computer and successfully connect (test by visiting the [CCAO intranet](http://intranet/)).
+Within 1-2 days of your onboarding date, your county email should receive an email or emails about required security training. You will receive a second, separate email to enroll in Duo, which provides multi-factor authentication. For more information on the VPN, see the [Data Department wiki](https://github.com/ccao-data/wiki/blob/master/How-To/Setup-the-Cook-County-VPN.md).
+
+- [ ] As soon as possible, complete security training on [Cook County Learns](https://learningmanager.adobe.com/CookCountyGovernment), the CCAO's Learning Management Platform. If you have not received an invitation for this in your county email, please let the Deputy know.
+- [ ] After you complete your security training, your county email should receive an email from Admins or NCC with a pdf of the Cook County VPN Access Form. You must use your CCAO email address when completing this form. When the form is complete, submit it using the ["VPN Access" IT Helpdesk ticket](https://cookcountyassessor.freshservice.com/support/catalog/items/71).
+
+Once CCAO IT has processed your VPN Access Form, you will receive instructions on how to sign in to the VPN Client.
+
+If you encounter any VPN issues, please submit an [IT Helpdesk ticket](https://cookcountyassessor.freshservice.com/).
+
 
 ## ID Card
 
-Interns and staff need to obtain a County employee ID badge and activate it. The badge grants access to the 9th floor via elevator. To obtain an ID badge, perform the following steps after the you've been added to the payroll system:
+Interns and staff need to obtain a County employee ID badge. The badge grants access to the 9th floor via elevator. To obtain an ID badge, perform the following steps after the you've been added to the payroll system:
 
-- [ ] Go to the Cook County Bureau of Human Resources, on the 8th floor in room 834 of the County building. The HR office is open Monday-Thursday, 9am-2pm. Your photo will be taken and your card promptly printed.
-- [ ] Email the CCAO's Manager of Payroll to inform them that you have your County employee ID.
+- [ ] Go to the Cook County Bureau of Human Resources, on the 8th floor in room 834 of the County building. The HR office is open Monday-Thursday, 9am-2pm. Your photo will be taken and your card promptly printed. If you are returning to the 9th floor afterward, please bring a member of the Data team with you.
+- [ ] Take a photo of the back of your County ID. Email the photo to the CCAO's Manager of Payroll to inform them that you have your County employee ID.
 - [ ] Fill out and return any paperwork provided by the Manager of Payroll.
 
 ## Teams
@@ -78,18 +85,12 @@ Once your W4 is filled out, you can (optionally) enroll in direct deposit using 
 
 ## Working Remotely
 
-The CCAO Data Department is currently working on a hybrid schedule. We are in-office on Wednesday and Thursday and remote the rest of the week. Interns are encourage to spend at least one day per week in-office with the team.
+The CCAO Data Department works on a hybrid schedule. We are in-office on Wednesday and Thursday and remote the rest of the week. Interns are encouraged to spend at least one day per week in-office with the team.
 
 ## Hardware and Software
 
-You will be issued a CCAO laptop as part of your onboarding. This laptop has all the software you need pre-installed. When working remotely, you can take your CCAO laptop home OR use a personal machine. You will need to use the [VPN](#vpn) to connect to CCAO resources while not in the office.
+You will be issued a CCAO laptop as part of your onboarding. This laptop has all the software you need pre-installed. When working remotely, you will need to use the [VPN](#vpn) to connect to CCAO resources while not in the office.
 
-If using a personal machine, you will need to install the following tools for communication and accessing internal resources:
-
-- [ ] [Teams](https://products.office.com/en-us/microsoft-teams/download-app) - Main CCAO communications method
-- [ ] A web browser of your choice
-
-If you're not using a personal machine, or already have the necessary tools installed, please check the boxes above.
 
 ## Server Setup
 
@@ -135,7 +136,7 @@ See the [Version Control and Workflow](https://github.com/ccao-data/wiki/blob/ma
 
 Interns may work up to 20 hours per week and are encouraged to do so. Working 15 hours or less may limit the assignments you receive, as most of our departmental projects require a significant time investment. Intern schedules and certain events are tracked on a shared calendar (the Data Department calendar).
 
-- [ ] Email your preferred schedule to [Nicole](mailto:nicole.jardine@cookcountyil.gov) and [Dan](mailto:daniel.snow@cookcountyil.gov). Include the days and times you will be working and the date of your last day. Subject: 'YOUR NAME - Internship Hours'
+- [ ] Email your preferred schedule to [Nicole](mailto:nicole.jardine@cookcountyil.gov). Include the days and times you will be working and the date of your last day. Subject: 'YOUR NAME - Internship Hours'
 
 During the first week of employment, interns _may_ need to manually record their hours by emailing [HR](assessor.ccaohr@cookcountyil.gov). After the first week, interns will use the Cook County Time system to track their hours. Visit [this page](https://www.cookcountyil.gov/cct) and click **Dashboard Login** to access CCT. **We recommend that you create a recurring calendar event to remind you to clock in and out.**
 
