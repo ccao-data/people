@@ -45,14 +45,23 @@ HR/IT will provide login credentials for your CCAO email account. This is your m
 
 ## VPN
 
-To work remotely, you will need to use the county VPN to access internal files and servers. The CCAO requires you to complete security training before you can use the VPN. 
+To work remotely, you will need to use the county VPN to access some [internal files and servers](https://github.com/ccao-data/wiki/blob/master/How-To/Setup-the-Cook-County-VPN.md). The CCAO and Cook County Bureau of Technology requires you to complete a VPN Access Form as well as security training before you can use the VPN. 
 
-Within 1-2 days of your onboarding date, your county email should receive an email or emails about required security training. You will receive a second, separate email to enroll in Duo, which provides multi-factor authentication. For more information on the VPN, see the [Data Department wiki](https://github.com/ccao-data/wiki/blob/master/How-To/Setup-the-Cook-County-VPN.md).
+- [ ] During your in-person onboarding, you will have received a paper VPN Access Form. Please follow instructions precisely to complete it. For email address, you must use your CCAO email address. We will provide a phone number. The signature must be a wet signature signed by hand. Keep it until you have completed the security training.
+   
+- [ ] Your county email should receive an email about required security training during your first week. As soon as possible, complete security training on [Cook County Learns](https://learningmanager.adobe.com/CookCountyGovernment), the CCAO's Learning Management Platform. If you have not received an invitation for this in your county email, please let the Deputy know.
+      
+- [ ] Your county email should also receive a separate email to enroll in Duo, which provides multi-factor authentication.
+      
+- [ ] After you complete your security training, it's time to scan your completed VPN Access Form as a pdf and then submit it. Get assistance from a Data team member or the IT department to scan the form as a pdf document and email it to yourself. Submit it using the ["VPN Access" IT Helpdesk ticket](https://cookcountyassessor.freshservice.com/).
 
-- [ ] As soon as possible, complete security training on [Cook County Learns](https://learningmanager.adobe.com/CookCountyGovernment), the CCAO's Learning Management Platform. If you have not received an invitation for this in your county email, please let the Deputy know.
-- [ ] After you complete your security training, your county email should receive an email from Admins or NCC with a pdf of the Cook County VPN Access Form. You must use your CCAO email address when completing this form. When the form is complete, submit it using the ["VPN Access" IT Helpdesk ticket](https://cookcountyassessor.freshservice.com/support/catalog/items/71).
+Once CCAO IT has processed your VPN Access Form, they will submit it to Cook County NCC. Processing can take 1-3 business days.
 
-Once CCAO IT has processed your VPN Access Form, you will receive instructions on how to sign in to the VPN Client.
+After Cook County has completed processing, they will email you an invitation to Duo Mobile, which provides multi-factor authentication needed to use the VPN client. 
+
+- [ ] Use your personal cell phone to download and install Duo Mobile.
+
+Once all of the above are completed, you should be able to use Cisco AnyConnect to connect to VPN.
 
 If you encounter any VPN issues, please submit an [IT Helpdesk ticket](https://cookcountyassessor.freshservice.com/).
 
@@ -83,14 +92,29 @@ Once your W4 is filled out, you can (optionally) enroll in direct deposit using 
 
 # Your First Week
 
+Your goals in your first week are to complete as much of this onboarding issue as you can, get set up with time tracking, hardware, and software, meet with your mentor to determine your hours, and (time permitting) have a project kickoff meeting.
+
 ## Working Remotely
 
-The CCAO Data Department works on a hybrid schedule. We are in-office on Wednesday and Thursday and remote the rest of the week. Interns are encouraged to spend at least one day per week in-office with the team.
+The CCAO Data Department works on a hybrid schedule. We are typically in-office on Wednesday and Thursday and remote the rest of the week. Interns are encouraged to spend at least one day per week in-office with the team.
+
+## Intern Hours and Projects
+
+During your first week you'll start to work with your mentor, have a project kickoff meeting, and discuss when you'll be in the office. 
+
+Interns may work up to 20 hours per week and are encouraged to do so. Working 15 hours or less may limit the assignments you receive, as most of our departmental projects require a significant time investment. Intern schedules and certain events are tracked on a shared calendar (the Data Department calendar).
+
+- [ ] Email your preferred schedule to your mentor and cc the [Deputy](mailto:nicole.jardine@cookcountyil.gov). Subject: 'YOUR NAME - Internship Hours'. In the body of your email, list the days and times you will be working, note which days and times will be in office or remote, and include the date of your last day. 
+
+## Time Tracking
+
+During the first week of employment, interns _may_ need to manually record their hours by emailing [HR](assessor.ccaohr@cookcountyil.gov). After the first week, interns will use the Cook County Time system to track their hours. Visit [this page](https://www.cookcountyil.gov/cct) and click **Dashboard Login** to access CCT. **We recommend that you create recurring calendar events to remind you to clock in and out.**
+
+Data Department fellows do not need to submit time sheets to the CCAO. They are still accountable for their time, but are paid by their academic institutions.
 
 ## Hardware and Software
 
 You will be issued a CCAO laptop as part of your onboarding. This laptop has all the software you need pre-installed. When working remotely, you will need to use the [VPN](#vpn) to connect to CCAO resources while not in the office.
-
 
 ## Server Setup
 
@@ -104,43 +128,35 @@ Once your account is created, you can connect to the server via [RStudio](https:
 
 ## Projects and Git
 
-You can use either RStudio's git integration or the command line (via SSH) to manage CCAO git repositories. If you are unfamiliar with git or RStudio's git integration, watch [this webinar](https://www.rstudio.com/resources/webinars/managing-part-2-github-and-rstudio/).
+You can use either RStudio's git integration or the command line (via SSH) to manage CCAO git repositories. If you are unfamiliar with git or RStudio's git integration, watch [this webinar](https://www.rstudio.com/resources/webinars/managing-part-2-github-and-rstudio/) and/or [Learn git branching]([url](https://learngitbranching.js.org/)).
 
-Additionally, the Data Department uses RStudio's projects feature to manage environments and switch between contexts.
+Additionally, the Data Department often uses RStudio's projects feature to manage environments and switch between contexts.
 
 - [ ] Read Posit's [introduction to RStudio projects](https://support.posit.co/hc/en-us/articles/200526207-Using-RStudio-Projects).
 - [ ] Clone a [CCAO repository](https://github.com/ccao-data/ccao-res-avm) using RStudio's projects feature.
 
 ## Issue Resolution
 
-The CCAO Data Department roughly uses [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow) to manage its work. GitHub flow uses a basic branch-per-issue system. Each issue or new feature is tied to a branch and merge request. Work is done on the branch, then merged to `master` (or `main`) after testing and review. Here's an example of a typical workflow:
+The CCAO Data Department roughly uses [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow) to manage its work. GitHub flow uses a basic **branch-per-issue** system. Each issue or new feature is tied to a branch and merge request. Work is done on the branch, then merged to `master` (or `main`) after testing and review. Here's an example of a typical workflow:
 
-1. You are assigned **Issue #118, Update Internal Contribution Guidelines** within GitLab.
-    * Check to see if there is a branch associated with your issue within GitLab. Branches created via issues usually have a similar name, in this case the branch name would be `118-update-internal-contribution-guidelines`.
+1. You are assigned **Issue #118, Update Internal Contribution Guidelines** within GitHub.
+    * Check to see if there is an existing branch associated with your issue within GitHub. Branches created via issues usually have a similar name, in this case the branch name would be `118-update-internal-contribution-guidelines`.
     * If a branch doesn't exist, then create one yourself. Each issue has an associated "Create Merge Request" button which will create a branch and merge request for that issue.
 2. Checkout the issue branch.
     * Within RStudio, navigate to the git pane, then click the branch name in the upper right-hand corner (usually **master**). Select the branch associated with the issue you have been assigned. In this case, `118-update-internal-contribution-guidelines`. You can also click different branch names to check them out.
     * The branch you selected should now appear in the upper right-hand corner of the git pane. You are now working within that branch.
 2. Work the issue. Use the issue page comments to communicate with your supervisor about the issue.
-3. Commit often and use [descriptive commit messages](https://commit.style/). Only push to your issue branch, never directly to `master`.
+3. Commit often and use [descriptive commit messages](https://commit.style/). **Only push to your issue branch**, never directly to `master`.
 4. When you have finished working on the issue:
     * Push all work to your issue branch
-    * Create a merge request if one doesn't exist already
-    * If a merge request exists but is tagged as **Work-in-progress**, remove the WIP tag using the GitLab UI
-    * Request approval for your merge request to let your supervisor know you've finished working the issue
-    * Merge your code. You can select **Merge Immediately** from the merge dropdown (we rarely use merge trains)
+    * Create a pull request if one doesn't exist already
+    * Request approval for your pull request to let your supervisor know you've finished working the issue
+    * Your PR will be reviewed, and you will receive a notification with comments, change requests, or approval.
+    * Once approved, you can merge your code. You can select **Merge** from the merge dropdown
+
+To see examples of this workflow in action, you might explore some closed pull requests -- like [this one](https://github.com/ccao-data/data-architecture/pull/889), which creates a [view](https://ccao-data.github.io/data-architecture/#!/model/model.ccao_data_athena.reporting.vw_market_tracker) that drives our [Housing Market Tracker](https://www.cookcountyassessoril.gov/cook-county-housing-market-tracker).
 
 See the [Version Control and Workflow](https://github.com/ccao-data/wiki/blob/master/Handbook/Handbook.md#version-control-and-workflow) section of the handbook for more information.
-
-## Intern Hours, Projects, and Time Tracking
-
-Interns may work up to 20 hours per week and are encouraged to do so. Working 15 hours or less may limit the assignments you receive, as most of our departmental projects require a significant time investment. Intern schedules and certain events are tracked on a shared calendar (the Data Department calendar).
-
-- [ ] Email your preferred schedule to [Nicole](mailto:nicole.jardine@cookcountyil.gov). Include the days and times you will be working and the date of your last day. Subject: 'YOUR NAME - Internship Hours'
-
-During the first week of employment, interns _may_ need to manually record their hours by emailing [HR](assessor.ccaohr@cookcountyil.gov). After the first week, interns will use the Cook County Time system to track their hours. Visit [this page](https://www.cookcountyil.gov/cct) and click **Dashboard Login** to access CCT. **We recommend that you create a recurring calendar event to remind you to clock in and out.**
-
-Data Department fellows do not need to submit time sheets to the CCAO. They are still accountable for their time, but are paid by their academic institutions.
 
 ## Required Reading and Bookmarks
 
@@ -150,7 +166,7 @@ All new hires, interns, and fellows are required to read the following:
 - [ ] [Data Department Mission, Vision, and Values](https://github.com/ccao-data/wiki/blob/master/Handbook/Mission-Vision-Values.md) - Outlines the principles and goals of the department
 - [ ] [Data Department Resources Page](https://github.com/ccao-data/wiki/blob/master/Handbook/Resources.md) - Read everything marked with a :exclamation:. You can skip *R for Data Science* and *Select Star SQL* if you're already proficient in R/SQL.
 - [ ] [Data Department Glossary](https://github.com/ccao-data/wiki/blob/master/Handbook/Glossary.md) - The CCAO uses a lot of assessment- and office-specific jargon. Read through this glossary to get acquainted with some of the terms.
-- [ ] [Data Department Data Catalog](https://ccao-data.github.io/data-architecture) - Architecture overview and database documentation for all Data Department assets. Read through the landing page and explore the data catalog a bit.
+- [ ] [Data Department Data Catalog](https://ccao-data.github.io/data-architecture) - Architecture overview and database documentation for all Data Department assets. Spend an hour or so reading through the landing page and exploring the data catalog a bit.
 
 Additionally, take a moment to visit the [internal org-level README](https://github.com/ccao-data?view_as=member) and investigate the listed services. We highly recommend you use this page as your entrypoint to all work at the CCAO.
 
