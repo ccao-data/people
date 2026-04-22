@@ -126,11 +126,11 @@ Once your account is created, you can connect to the server via [RStudio](https:
 
 - [ ] Successfully login to the server using either [RStudio](https://datascience.cookcountyassessor.com/rstudio), Positron with a remote SSH connection, or a terminal.
 
-## Dev Environment Setup
+## Local Dev Environment Setup
 
 The Data Department often uses our laptops for programming tasks that **do not** require intensive compute. The line between intensive and non-intensive tasks is not always clear, so the choice to complete a task on the server or on your laptop often comes down to personal preference.
 
-- [ ] Follow our instructions for [setting up your dev environment](https://github.com/ccao-data/wiki/blob/master/Handbook/Dev-Environment-Setup.md). (Interns who plan to do all their work on the server in RStudio or Positron can skip this step.)
+- [ ] Follow our instructions for [setting up your local dev environment](https://github.com/ccao-data/wiki/blob/master/Handbook/Local-Dev-Environment-Setup.md). (Interns who plan to do all their work on the server in RStudio or Positron can skip this step.)
 
 ## Projects and Git
 
