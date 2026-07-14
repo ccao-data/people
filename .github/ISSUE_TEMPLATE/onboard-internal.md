@@ -20,6 +20,12 @@ Nearly all of the Data Department's work is tracked using GitHub. In order to pa
 - [ ] Create a [GitHub](https://github.com/) account. If you do not already have one, create a free [GitHub](https://github.com/) account using your personal or university email address.
 - [ ] Log in to [GitHub](https://github.com/) and comment on this issue ticket to let us know your username.
 - [ ] Ask a core team member to add you to the relevant [team](https://github.com/orgs/ccao-data/teams).
+- [ ] (Optional) Configure your GitHub notifications so that you receive emails when someone tags you in a discussion. Here are the steps to do that:
+    1. If you are using a pre-existing GitHub account, and you would like to route notifications related to CCAO projects to your County email address while continuing to route personal notifications to a personal email address, then follow these instructions to [add a secondary email address and use custom routing to send notifications from the `ccao-data` org to it](https://github.com/orgs/community/discussions/113268#discussioncomment-8842926).
+    2. Navigate to your [GitHub notifications settings](https://github.com/settings/notifications) and set the following configs in the "Subscriptions" section:
+        1. **Watching**: Select "on GitHub"
+        2. **Participating, @mentions and custom**: Select "on GitHub" and "Email"
+        3. **Customize email updates**: Select "Pull Request reviews" and "Comments on Issues and Pull Requests"
 
 Please note that your GitHub account can persist after your employment/internship has ended and can be a valuable resource in your career. Your work will mostly be public, so please take a moment to review [GitHub's community guidelines](https://docs.github.com/en/site-policy/github-terms/github-community-guidelines).
 
