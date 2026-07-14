@@ -13,7 +13,7 @@ Welcome back! This issue ticket serves as a checklist for your return to the CCA
 - [ ] Verify that you have VPN access.
 - [ ] Verify that your County employee ID badge grants access to 9th floor.
 - [ ] Verify that you're able to send messages in Teams.
-- [ ] If you're using a local machine (i.e. your laptop), follow our instructions for [setting up your local dev environment](https://github.com/ccao-data/wiki/blob/master/Handbook/Dev-Environment-Setup.md).
+- [ ] If you're using a local machine (i.e. your laptop), follow our instructions for [setting up your local dev environment](https://github.com/ccao-data/wiki/blob/master/Handbook/Local-Dev-Environment-Setup.md).
 - [ ] If you're using a local machine, validate your git configuration (make sure you can push and pull).
 - [ ] **Interns only:** Email your preferred schedule to [Nicole](mailto:nicole.jardine@cookcountyil.gov) and [Dan](mailto:daniel.snow@cookcountyil.gov). Include the days and times you will be working and the date of your last day. Subject: 'YOUR NAME - Internship Hours'
 
