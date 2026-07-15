@@ -124,13 +124,19 @@ You will be issued a CCAO laptop as part of your onboarding. This laptop has all
 
 ## Server Setup
 
-For actual coding and computation, the Data Department uses an on-premise server. The server can be accessed via SSH, RStudio, or JupyterLab as long as you are connected to the county VPN. To gain access to the server, you will need an account.
+The Data Department often uses an on-premise server for programming tasks that require intensive compute. The server can be accessed via SSH, RStudio, or Positron as long as you are connected to the county VPN. To gain access to the server, you will need an account.
 
 - [ ] Send a Teams message to Jean ([@jeancochrane](https://github.com/jeancochrane)) requesting an RStudio/server account.
 
-Once your account is created, you can connect to the server via [RStudio](https://datascience.cookcountyassessor.com/rstudio/) or [JupyterLab](https://datascience.cookcountyassessor.com/jupyter).
+Once your account is created, you can connect to the server via [RStudio](https://datascience.cookcountyassessor.com/rstudio/) or your local Positron app using a [remote SSH connection](https://positron.posit.co/remote-ssh).
 
-- [ ] Successfully login to either [RStudio](https://datascience.cookcountyassessor.com/rstudio) or [JupyterLab](https://datascience.cookcountyassessor.com/jupyter).
+- [ ] Successfully login to the server using either [RStudio](https://datascience.cookcountyassessor.com/rstudio), Positron with a remote SSH connection, or a terminal.
+
+## Local Dev Environment Setup
+
+The Data Department often uses our laptops for programming tasks that **do not** require intensive compute. The line between intensive and non-intensive tasks is not always clear, so the choice to complete a task on the server or on your laptop often comes down to personal preference.
+
+- [ ] Follow our instructions for [setting up your local dev environment](https://github.com/ccao-data/wiki/blob/master/Handbook/Local-Dev-Environment-Setup.md). (Interns who plan to do all their work on the server in RStudio or Positron can skip this step.)
 
 ## Projects and Git
 
