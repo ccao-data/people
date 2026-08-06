@@ -17,11 +17,11 @@ If a task does not apply to you, please mark it anyways so we can track the prog
 
 Nearly all of the Data Department's work is tracked using GitHub. In order to participate in this issue and contribute to the Department, you will need a GitHub account.
 
-- [ ] Create a [GitHub](https://github.com/) account. If you do not already have one, create a free [GitHub](https://github.com/) account using your personal or university email address.
-- [ ] Log in to [GitHub](https://github.com/) and comment on this issue ticket to let us know your username.
+- [ ] Make sure you have a GitHub account. It's fine to use a personal account, though you are welcome to make a dedicated work account if you'd rather not use your personal account for work. If creating an account, interns can use a personal or university email address, while full-time staff can use a personal email address or your county email address.
+- [ ] Log in to GitHub and comment on this issue ticket to let us know your username.
 - [ ] Ask a core team member to add you to the relevant [team](https://github.com/orgs/ccao-data/teams).
 - [ ] (Optional) Configure your GitHub notifications so that you receive emails when someone tags you in a discussion. Here are the steps to do that:
-    1. If you are using a pre-existing GitHub account, and you would like to route notifications related to CCAO projects to your County email address while continuing to route personal notifications to a personal email address, then follow these instructions to [add a secondary email address and use custom routing to send notifications from the `ccao-data` org to it](https://github.com/orgs/community/discussions/113268#discussioncomment-8842926).
+    1. If you are using a pre-existing GitHub account, and you would like to route notifications related to CCAO projects to your county email address while continuing to route personal notifications to a personal email address, then follow these instructions to [add a secondary email address and use custom routing](https://github.com/orgs/community/discussions/113268#discussioncomment-8842926) to send notifications from the `ccao-data` org to it.
     2. Navigate to your [GitHub notifications settings](https://github.com/settings/notifications) and set the following configs in the "Subscriptions" section:
         1. **Watching**: Select "on GitHub"
         2. **Participating, @mentions and custom**: Select "on GitHub" and "Email"
@@ -33,7 +33,7 @@ You may also want to explore GitHub to familiarize yourself with the platform. T
 
 # On or Before Your First Day
 
-There are a number of administrative tasks you need to complete before you start working with the Data Department. These will typically occur on or before your first day. 
+There are a number of administrative tasks you need to complete before you start working with the Data Department. These will typically occur on or before your first day.
 
 ## HR Paperwork
 
@@ -51,7 +51,7 @@ HR/IT will provide login credentials for your CCAO email account. This is your m
 
 ## VPN
 
-To work remotely, you will need to use the county VPN to access some [internal files and servers](https://github.com/ccao-data/wiki/blob/master/How-To/Setup-the-Cook-County-VPN.md). The CCAO and Cook County Bureau of Technology requires you to complete a VPN Access Form as well as security training before you can use the VPN. 
+To work remotely, you will need to use the county VPN to access some [internal files and servers](https://github.com/ccao-data/wiki/blob/master/How-To/Setup-the-Cook-County-VPN.md). The CCAO and Cook County Bureau of Technology requires you to complete a VPN Access Form as well as security training before you can use the VPN.
 
 - [ ] During your in-person onboarding, you will have received a paper VPN Access Form. Please follow instructions precisely to complete it. For email address, you must use your CCAO email address. We will provide a phone number. The signature must be a wet signature signed by hand. Keep it until you have completed the security training.
    
@@ -63,7 +63,7 @@ To work remotely, you will need to use the county VPN to access some [internal f
 
 Once CCAO IT has processed your VPN Access Form, they will submit it to Cook County NCC. Processing can take 1-3 business days.
 
-After Cook County has completed processing, they will email you an invitation to Duo Mobile, which provides multi-factor authentication needed to use the VPN client. 
+After Cook County has completed processing, they will email you an invitation to Duo Mobile, which provides multi-factor authentication needed to use the VPN client.
 
 - [ ] Use your personal cell phone to download and install Duo Mobile.
 
@@ -102,25 +102,27 @@ Your goals in your first week are to complete as much of this onboarding issue a
 
 ## Working Remotely
 
-The CCAO Data Department works on a hybrid schedule. We are typically in-office on Wednesday and Thursday and remote the rest of the week. Interns are encouraged to spend at least one day per week in-office with the team.
+The CCAO Data Department works on a hybrid schedule. We are typically in-office on Wednesday and Thursday and remote the rest of the week, though Director-level staff members sometimes work in-office on Tuesdays as well. Interns are encouraged to spend at least one day per week in-office with the team.
 
-## Intern Hours and Projects
+## Hours and Projects (Interns Only)
 
-During your first week you'll start to work with your mentor, have a project kickoff meeting, and discuss when you'll be in the office. 
+During your first week as an intern you'll start to work with your mentor, have a project kickoff meeting, and discuss when you'll be in the office.
 
 Interns may work up to 20 hours per week and are encouraged to do so. Working 15 hours or less may limit the assignments you receive, as most of our departmental projects require a significant time investment. Intern schedules and certain events are tracked on a shared calendar (the Data Department calendar).
 
-- [ ] Email your preferred schedule to your mentor and cc the [Deputy](mailto:nicole.jardine@cookcountyil.gov). Subject: 'YOUR NAME - Internship Hours'. In the body of your email, list the days and times you will be working, note which days and times will be in office or remote, and include the date of your last day. 
+- [ ] Email your preferred schedule to your mentor and CC the [Deputy](mailto:nicole.jardine@cookcountyil.gov). Subject: 'YOUR NAME - Internship Hours'. In the body of your email, list the days and times you will be working, note which days and times will be in office or remote, and include the date of your last day.
 
 ## Time Tracking
 
-During the first week of employment, interns _may_ need to manually record their hours by emailing [HR](assessor.ccaohr@cookcountyil.gov). After the first week, interns will use the Cook County Time system to track their hours. Visit [this page](https://www.cookcountyil.gov/cct) and click **Dashboard Login** to access CCT. **We recommend that you create recurring calendar events to remind you to clock in and out.**
+During the first week of employment, you _may_ need to manually record your hours by emailing [HR](assessor.ccaohr@cookcountyil.gov). After the first week, you will use the Cook County Time (CCT) system to track your hours. Visit [the CCT homepage](https://www.cookcountyil.gov/cct) and click **Dashboard Login** to access CCT. **We recommend that you create recurring calendar events to remind you to clock in and out.**
+
+Director-level staff typically only need to clock in once per day. Clock-outs are optional for these team members.
 
 Data Department fellows do not need to submit time sheets to the CCAO. They are still accountable for their time, but are paid by their academic institutions.
 
 ## Hardware and Software
 
-You will be issued a CCAO laptop as part of your onboarding. This laptop has all the software you need pre-installed. When working remotely, you will need to use the [VPN](#vpn) to connect to CCAO resources while not in the office.
+You will be issued a CCAO laptop as part of your onboarding. This laptop has most of the software you need pre-installed. When working remotely, you will need to use the [VPN](#vpn) to connect to CCAO resources while not in the office.
 
 ## Server Setup
 
@@ -140,7 +142,7 @@ The Data Department often uses our laptops for programming tasks that **do not**
 
 ## Projects and Git
 
-You can use either RStudio's git integration or the command line (via SSH) to manage CCAO git repositories. If you are unfamiliar with git or RStudio's git integration, watch [this webinar](https://www.rstudio.com/resources/webinars/managing-part-2-github-and-rstudio/) and/or [Learn git branching]([url](https://learngitbranching.js.org/)).
+You can use the command line (via SSH) or the git integration in RStudio/Positron to manage CCAO git repositories. If you are unfamiliar with git or RStudio's git integration, watch [this webinar](https://www.rstudio.com/resources/webinars/managing-part-2-github-and-rstudio/) and/or learn interactively using [Learn git branching](https://learngitbranching.js.org/).
 
 Additionally, the Data Department often uses RStudio's projects feature to manage environments and switch between contexts.
 
@@ -152,21 +154,21 @@ Additionally, the Data Department often uses RStudio's projects feature to manag
 The CCAO Data Department roughly uses [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow) to manage its work. GitHub flow uses a basic **branch-per-issue** system. Each issue or new feature is tied to a branch and merge request. Work is done on the branch, then merged to `master` (or `main`) after testing and review. Here's an example of a typical workflow:
 
 1. You are assigned **Issue #118, Update Internal Contribution Guidelines** within GitHub.
-    * Check to see if there is an existing branch associated with your issue within GitHub. Branches created via issues usually have a similar name, in this case the branch name would be `118-update-internal-contribution-guidelines`.
-    * If a branch doesn't exist, then create one yourself. Each issue has an associated "Create Merge Request" button which will create a branch and merge request for that issue.
+    * Check to see if there is an existing branch associated with your issue within GitHub. Branches created via issues usually have a similar name; in this case the branch name is likely to be `118-update-internal-contribution-guidelines`, though sometimes our staff members prefix their branch names with their GitHub username for cleaner organization, like `<username>/118-update-internal-contribution-guidelines`.
+    * If a branch doesn't exist, then create one yourself. You can create a branch for an issue in the GitHub interface by clicking the "**Create a branch**" link in the "**Development**" section of the issue sidebar.
 2. Checkout the issue branch.
-    * Within RStudio, navigate to the git pane, then click the branch name in the upper right-hand corner (usually **master**). Select the branch associated with the issue you have been assigned. In this case, `118-update-internal-contribution-guidelines`. You can also click different branch names to check them out.
-    * The branch you selected should now appear in the upper right-hand corner of the git pane. You are now working within that branch.
+    * To checkout the branch in **RStudio**, navigate to the git pane, then click the branch name in the upper right-hand corner (usually **master**). Select the branch associated with the issue you have been assigned (in this case, `118-update-internal-contribution-guidelines`). You can also click different branch names to check them out. The branch you selected should now appear in the upper right-hand corner of the git pane. You are now working within that branch.
+    * To checkout the branch in a **terminal**, `cd` to the directory for the repository, then run `git fetch origin <branch_name> && git checkout <branch_name>` (in this case, replace `<branch_name>` with `118-update-internal-contribution-guidelines`).
 2. Work the issue. Use the issue page comments to communicate with your supervisor about the issue.
 3. Commit often and use [descriptive commit messages](https://commit.style/). **Only push to your issue branch**, never directly to `master`.
 4. When you have finished working on the issue:
     * Push all work to your issue branch
     * Create a pull request if one doesn't exist already
-    * Request approval for your pull request to let your supervisor know you've finished working the issue
-    * Your PR will be reviewed, and you will receive a notification with comments, change requests, or approval.
-    * Once approved, you can merge your code. You can select **Merge** from the merge dropdown
+    * Request review from your supervisor in the pull request interface to let them know you've finished working the issue
+    * Your PR will be reviewed, and you will receive a notification with comments, change requests, or approval
+    * Once approved, you can merge your code. You can select **Squash and merge** from the merge dropdown
 
-To see examples of this workflow in action, you might explore some closed pull requests -- like [this one](https://github.com/ccao-data/data-architecture/pull/889), which creates a [view](https://ccao-data.github.io/data-architecture/#!/model/model.ccao_data_athena.reporting.vw_market_tracker) that drives our [Housing Market Tracker](https://www.cookcountyassessoril.gov/cook-county-housing-market-tracker).
+To see examples of this workflow in action, you might explore some closed pull requests. A good example is [this pull request](https://github.com/ccao-data/data-architecture/pull/889) that creates a [view](https://ccao-data.github.io/data-architecture/#!/model/model.ccao_data_athena.reporting.vw_market_tracker) that drives our [Housing Market Tracker](https://www.cookcountyassessoril.gov/cook-county-housing-market-tracker).
 
 See the [Version Control and Workflow](https://github.com/ccao-data/wiki/blob/master/Handbook/Handbook.md#version-control-and-workflow) section of the handbook for more information.
 
@@ -186,10 +188,12 @@ If you have downtime while working, we highly recommend reading anything marked 
 
 
 ## Suggested reading for full-time employees
+
 - [ ] [Cook County Pension](https://www.cookcountypension.com/) - about the pension plan.
-- [ ] [Cook County Deferred Compensation](https://www.cookcountydc.com/rsc-web-preauth/index.html) - This is a 457(b) retirement savings vehicle, similar to a 403(b), that you can choose to enroll in with a maximum annual contribution of $23k. It is separate from (and in addition to) your pension. 
+- [ ] [Cook County Deferred Compensation](https://www.cookcountydc.com/rsc-web-preauth/index.html) - This is a 457(b) retirement savings vehicle, similar to a 403(b), that you can choose to enroll in with a maximum annual contribution of $23k. It is separate from (and in addition to) your pension.
 
 # Welcome!
-We're looking forward to working with you. 
+
+We're looking forward to working with you.
 
 NOTE: Please report any broken links, spelling/grammar mistakes, or inaccurate instructions in this issue to [@ccao-data/core-team](https://github.com/orgs/ccao-data/teams/core-team).
