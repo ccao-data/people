@@ -196,4 +196,5 @@ If you have downtime while working, we highly recommend reading anything marked 
 
 We're looking forward to working with you.
 
-NOTE: Please report any broken links, spelling/grammar mistakes, or inaccurate instructions in this issue to [@ccao-data/core-team](https://github.com/orgs/ccao-data/teams/core-team).
+> [!NOTE]
+> Please report any broken links, spelling/grammar mistakes, or inaccurate instructions in this issue to [@ccao-data/core-team](https://github.com/orgs/ccao-data/teams/core-team). Bonus points for putting up a pull request to fix the problem yourself!
