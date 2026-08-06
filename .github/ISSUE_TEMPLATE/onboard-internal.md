@@ -17,7 +17,7 @@ If a task does not apply to you, please mark it anyways so we can track the prog
 
 Nearly all of the Data Department's work is tracked using GitHub. In order to participate in this issue and contribute to the Department, you will need a GitHub account.
 
-- [ ] Make sure you have a GitHub account. It's fine to use a personal account, though you are welcome to make a dedicated work account if you'd rather not use your personal account for work. If creating an account, interns can use a personal or university email address, while full-time staff can use a personal email address or your county email address.
+- [ ] Make sure you have a GitHub account. It's fine to use a personal account, though you are welcome to make a dedicated work account if you'd rather not use your personal account for work. Interns can use a personal email address or a university email address to create an account, while full-time staff can use a personal email address or a county email address.
 - [ ] Log in to GitHub and comment on this issue ticket to let us know your username.
 - [ ] Ask a core team member to add you to the relevant [team](https://github.com/orgs/ccao-data/teams).
 - [ ] (Optional) Configure your GitHub notifications so that you receive emails when someone tags you in a discussion. Here are the steps to do that:
@@ -116,7 +116,7 @@ Interns may work up to 20 hours per week and are encouraged to do so. Working 15
 
 During the first week of employment, you _may_ need to manually record your hours by emailing [HR](assessor.ccaohr@cookcountyil.gov). After the first week, you will use the Cook County Time (CCT) system to track your hours. Visit [the CCT homepage](https://www.cookcountyil.gov/cct) and click **Dashboard Login** to access CCT. **We recommend that you create recurring calendar events to remind you to clock in and out.**
 
-Director-level staff typically only need to clock in once per day. Clock-outs are optional for these team members.
+Director-level staff typically only need to clock in once per day. Clocking out is optional for Directors.
 
 Data Department fellows do not need to submit time sheets to the CCAO. They are still accountable for their time, but are paid by their academic institutions.
 
