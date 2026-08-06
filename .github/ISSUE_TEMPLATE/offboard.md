@@ -13,7 +13,6 @@ If you're reading this, then it's finally time to say goodbye. :sob: We're sad t
 
 - [ ] Schedule an informal exit chat with your supervisor
 - [ ] Email [HR](assessor.ccaohr@cookcountyil.gov) to confirm your last day
-- [ ] Delete any stored CCAO read-only database credentials on your local machine (if applicable)
 - [ ] Email your personal contact information to the Chief Data Officer and Directors, in case we need to follow-up on something you worked on
 - [ ] (Interns only) Deliver your [wrap-up memo](#memo-interns-only) to your project lead and the Chief Data Officer via PR
 - [ ] Return any CCAO equipment in your possession
