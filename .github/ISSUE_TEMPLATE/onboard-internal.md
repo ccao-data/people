@@ -100,6 +100,7 @@ Once your W4 is filled out, you can (optionally) enroll in direct deposit using 
 
 Your goals in your first week are to complete as much of this onboarding issue as you can, get set up with time tracking, hardware, and software, meet with your mentor to determine your hours, and (time permitting) have a project kickoff meeting.
 
+Your first day will be onsite for employee orientation. For other onsite days your first week, note that that while your ID badge is being processed, you will not be able to access the secure floor and will need to coordinate your arrival time with a Data team member.
 ## Working Remotely
 
 The CCAO Data Department works on a hybrid schedule. We are typically in-office on Wednesday and Thursday and remote the rest of the week, though Director-level staff members sometimes work in-office on Tuesdays as well. Interns are encouraged to spend at least one day per week in-office with the team.
