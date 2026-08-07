@@ -109,7 +109,7 @@ The CCAO Data Department works on a hybrid schedule. We are typically in-office 
 
 During your first week as an intern you'll start to work with your mentor, have a project kickoff meeting, and discuss when you'll be in the office.
 
-Interns may work up to 20 hours per week and are encouraged to do so. Working 15 hours or less may limit the assignments you receive, as most of our departmental projects require a significant time investment. Intern schedules and certain events are tracked on a shared calendar (the Data Department calendar).
+Interns may work up to 20 hours per week during the academic year and 30 hours per week during the summer, and are encouraged to do so. Working 15 hours or less may limit the assignments you receive, as most of our departmental projects require a significant time investment. Intern schedules and certain events are tracked on a shared calendar (the Data Department calendar).
 
 - [ ] Email your preferred schedule to your mentor and CC the [Deputy](mailto:nicole.jardine@cookcountyil.gov). Subject: 'YOUR NAME - Internship Hours'. In the body of your email, list the days and times you will be working, note which days and times will be in office or remote, and include the date of your last day.
 
