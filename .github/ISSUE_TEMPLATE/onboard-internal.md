@@ -135,6 +135,13 @@ Once your account is created, you can connect to the server via [RStudio](https:
 
 - [ ] Successfully login to the server using either [RStudio](https://datascience.cookcountyassessor.com/rstudio), Positron with a remote SSH connection, or a terminal.
 
+## AWS Setup
+
+The Data Department uses Amazon Web Services (AWS) as our cloud computing provider. The most important service that we host on AWS is our Athena data lake, which is the basis for nearly all of the data analysis and data science work that we do.
+
+- [ ] Send a Teams message to Jean ([@jeancochrane](https://github.com/jeancochrane)) requesting an AWS user account. (See the wiki page documenting how to [Administer Users on CCAO Services](https://github.com/ccao-data/wiki/blob/master/How-To/Administer-Users-on-CCAO-Services.md#aws) for a detailed explanation of the process for creating an AWS account.)
+- [ ] Successfully login to AWS using the credentials that Jean provided to you, change your temporary password, and configure your MFA device.
+
 ## Local Dev Environment Setup
 
 The Data Department often uses our laptops for programming tasks that **do not** require intensive compute. The line between intensive and non-intensive tasks is not always clear, so the choice to complete a task on the server or on your laptop often comes down to personal preference.
