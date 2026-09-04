@@ -40,7 +40,8 @@ If you so choose, the memo may also be used as the basis for a Data Department b
 
 - [ ] Remove the departing employee/intern from our GitHub org
 - [ ] Revoke all private API/deploy keys
-- [ ] Delete the AWS user account for the departing employee/intern
+- [ ] Delete the AWS user account for the departing employee/intern if they are leaving permanently, or disable the account if the employee/intern will be returning soon
+  - See the wiki page documenting how to [Administer Users on CCAO Services](https://github.com/ccao-data/wiki/blob/master/How-To/Administer-Users-on-CCAO-Services.md#aws) for a detailed explanation of the processes for deleting/disabling AWS accounts
 - [ ] Archive and delete the user from the Data team server ([docs](https://github.com/ccao-data/wiki/blob/master/How-To/Administer-Users-on-CCAO-Services.md#data-server))
 - [ ] Rotate passwords for any [shared accounts](https://github.com/ccao-data/wiki/blob/master/Handbook/Accounts.md) that the departing employee had access to
 - [ ] Add the departing employee/intern to the [list of former interns and employees that we use to generate unique model identifiers](https://github.com/ccao-data/data-architecture/blob/master/dbt/seeds/ccao/ccao.person.csv)
